@@ -49,8 +49,8 @@ reduced requirements for students (simply a modern web browser, we have
 used tablets and smart phones), and simplifying assignment submission.
 You can also run a Docker container locally, as in previous courses, but
 this approach is not recommended. In addition, if you work locally,
-since assignments are automatically collected from your cloud-based
-Docker container, you must ensure that you push local changes to your
+since assignments are collected from your cloud-based Docker container
+after you have submitted them, you must ensure that you push local changes to your
 course cloud Docker container prior to the deadline.
 
 As part of the orientation week activities, we have provided a demo
@@ -228,7 +228,7 @@ by 6:00 PM Central on Thursday of that week.
 
 ### Assignments ###
 
-Every week but the first and last will contain an assignment that will involve one or more computational tasks related to the focus for that given week. Your assignment will be automatically collected at the deadline from the course JupyterHub server. These assignments will be automatically graded for your instructor grade, and will also be randomly distributed for peer assessment. You will have up to five problems from different peers to grade for your weekly peer assessment. You will receive fifteen points for simply grading your peer's assignments. Your peer assessment score will be worth a maximum of ten  points, and we will drop the two lowest scores and average the three remaining scores.
+Every week but the first and last will contain an assignment that will involve one or more computational tasks related to the focus for that given week. Your submitted assignments will be collected at the deadline from the course JupyterHub server. These assignments will be automatically graded for your instructor grade, and will also be randomly distributed for peer assessment. You will have up to five problems from different peers to grade for your weekly peer assessment. You will receive fifteen points for simply grading your peer's assignments. Your peer assessment score will be worth a maximum of ten  points, and we will drop the two lowest scores and average the three remaining scores.
 
 To receive full credit from instructor grading, your assignment must be submitted prior to the deadline. There will be NO grace period, late assignments will not be accepted. The assignment deadline is 6:00 PM Central on the Monday following the relevant week.
 
