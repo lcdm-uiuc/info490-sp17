@@ -8,6 +8,6 @@ to problem solve on your own, and know when to ask for help.  In this folder you
 - [A flow chart that helps you to debug your code](Debugging_flow_chart.pdf)
 - [How to activate your assignments tab in Jupyter](act_assign_tab.md)
 
-If these resources don't help, look in the [Wiki](https://github.com/UI-DataScience/info490-fa16/wiki) above BEFORE posting to the class forum!
+If these resources don't help, look in the [Wiki](https://github.com/lcdm-uiuc/info490-sp17/wiki) above BEFORE posting to the class forum!
 
 Many more will follow, so please be on the lookout for updates!
