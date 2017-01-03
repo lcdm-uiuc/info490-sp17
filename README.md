@@ -1,7 +1,5 @@
 # Welcome to INFO 490: Advanced Data Science #
 
-[![Join the chat at https://gitter.im/lcdm-uiuc/info490-sp17](https://badges.gitter.im/lcdm-uiuc/info490-sp17.svg)](https://gitter.im/lcdm-uiuc/info490-sp17?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 ***Professor:*** Dr. Robert Brunner
 
 ***Teaching Assistant:***  Edward Kim
@@ -48,3 +46,6 @@ click the icon labeled "Wiki" that looks like an open book), before
 either posting a new forum post or emailing the TA or the course
 instructor.**
 
+------
+
+[![Join the chat at https://gitter.im/lcdm-uiuc/info490-sp17](https://badges.gitter.im/lcdm-uiuc/info490-sp17.svg)](https://gitter.im/lcdm-uiuc/info490-sp17?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
