@@ -5,6 +5,22 @@ science by employing a practical approach, including machine learning;
 probabilistic programming; text, network, and graph analysis; and cloud
 computing.
 
+***Professor:*** Dr. Robert J. Brunner
+
+***Course Administrator:*** Edward J. Kim
+
+***Teaching Assistants:***  
+- Xinyang Lu
+- Fizza Mughal
+- Samantha Thrush
+
+***Course Assistants:*** 
+- Drake Eidukas
+- Taeyoung Kim
+
+For contact information see the course [moodle site](https://learn.illinois.edu/course/view.php?id=20247).
+
+
 ## Course Goals ##
 
 Upon completion of this course, students will be expected to understand
@@ -71,6 +87,16 @@ quizzes, your answers must of course be your own. For further info, see
 the [Student Code, Part 4. Academic
 Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
 
+** Automatic Plagiarism Detection **
+This semester we will employ an automatic plagiarism detection tool on each assignment. This tool easily identifies submissions that are more similar than would be randomly expected. Each week the instructional staff will review the output from this tool, and as necessary formally identify students who we believe are guilty of cheating. The following policy will be enforced:
+
+- First Offense: Warning.
+- Second Offense: Zero on affected assignment.
+- Third Offense: Final grade reduced by one letter grade and a notification sent to home unit.
+- Fourth Offense: Automatic F in course and a notification sent to the Dean of Students.
+
+Furthermore, each argument about the enforcement of this policy that is deemed frivolous by the instructional staff will result in ten percent reduction in the affected assignment score.
+
 ## Communication ##
 
 The instructional staff will use the [Announcement Forum][af] on the
@@ -92,16 +118,41 @@ online course forums) you can email the instructional staff, however,
 this should be a last resort. If we feel the question is best answered
 on the [Q&A Forum][qaf], we reserve the right to post your question and
 our answer on Moodle. Also, note the information contained in the
-__Point Reductions__ section of this syllabus.
+__Point Reductions__ section of this syllabus. 
+
+Here are the appropriate contacts for items in this course:
+
+| Topic | Contact |
+| --- | --- | 
+| Assessments | Any TA |
+| Assignments | Any TA |
+| Extra Credit | Any CA |
+| Gradebook Items | Any CA |
+| Grades | Professor Brunner |
+| JupyterHub Server | Edward Kim or a CA |
+| Quizzes | Any TA |
 
 Finally, we have created a [gitter room][gr] for this course. This is a
 completely public, real-time communication channel that you can also use
 to ask questions.
 
 
-[qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1325062
-[af]: https://learn.illinois.edu/mod/forum/view.php?id=1325059
-[gr]: https://gitter.im/UI-DataScience/info490-sp16
+[qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1844325
+[af]: https://learn.illinois.edu/mod/forum/view.php?id=1844322
+[gr]: https://gitter.im/lcdm-uiuc/info490-sp17
+
+## Office Hours ##
+
+Scheduled office hours are listed below for all instructors. 
+You can also communicate via the course forums and email.
+
+| Name | Data | Time | Location | 
+| --- | --- | --- | --- | 
+| Brunner | XXX | 1:30 pm - 2:30 pm | 226 Astronomy |
+| Lu | XXX | 10:30 am - 11:30 am | 234 Astronomy |
+| Mughal | XXX | 6:00 pm - 7:00 pm |  |
+| Thrush | XXX | 4:00 pm - 5:00 pm | 234 Astronomy |
+
 
 ## Course Outline ##
 
@@ -117,24 +168,24 @@ As a result, we feel it is imperative to be able to change the planned
 pace and material to benefit the majority of enrolled students.
 
 
-| **Week** | **Topics**| **Activities**|
-|----------|-----------|----------------|
-|*Orientation Week*| Course Overview & Syllabus Review| |
-|*Week 1*| Introduction to Machine Learning|  |
-|*Week 2*| General Linear Models |  |
-|*Week 3*| Introduction to Supervised Machine Learning|  |
-|*Week 4*| Supervised Machine Learning|  |
-|*Week 5*| Introduction to Unsupervised Machine Learning| |
-|*Week 6*| Unsupervised Machine Learning|
-|*Week 7*| Introduction to Text Mining | |
-|*Week 8*| Introduction to Social Media Analysis| |
-|*Week 9*| Advanced Text Mining | |
-|*Week 10*| Introduction to Network Analysis| |
-|*Week 11*| Probabilistic Programming |  |
-|*Week 12*| Introduction to Cloud Computing| |
-|*Week 13*| Introduction to NoSQL| |
-|*Week 14*| Advanced Cloud Computing | | 
-|*Week 15*| Introduction to Deep Learning| |
+| **Week** | **Topics**|
+|----------|-----------|
+|*Orientation Week*| Course Overview & Syllabus Review| 
+|*Week 1*| Introduction to Machine Learning| 
+|*Week 2*| General Linear Models | 
+|*Week 3*| Introduction to Supervised Machine Learning|
+|*Week 4*| Tree Algorithms and Ensemble Techniques |
+|*Week 5*| Introduction to Unsupervised Machine Learning|
+|*Week 6*| Practical Machine Learning|
+|*Week 7*| Introduction to Text Analysis |
+|*Week 8*| Introduction to Social Media Analysis|
+|*Week 9*| Natural Language Processing |
+|*Week 10*| Introduction to Network Analysis|
+|*Week 11*| Probabilistic Programming |
+|*Week 12*| Introduction to Cloud Computing|
+|*Week 13*| Introduction to NoSQL DataStores|
+|*Week 14*| Introduction to Spark | 
+|*Week 15*| Introduction to Deep Learning|
 
 
 ## Weekly Format ##
@@ -145,14 +196,7 @@ point values for assignments.
 
 ### Videos ###
 
-Each week there will be at least one instructor created video that will
-offer a broader context for the new week, explain key concepts, and
-demonstrate important tasks. To view the instructor videos, you will
-need to login to the Illinois Mediaspace (links are embedded in the
-relevant weekly overview). You will be given twenty points for viewing
-each weekly instructor overview video. In case you are wondering,
-Illinois Mediaspace tracks the viewing of course videos, so we know not
-only if you load a video, but how much of the video you actually watched.
+Each week there will be at least one instructor created video that will offer a broader context for the new week, explain key concepts, and demonstrate important tasks. To view the instructor videos, you will need to login to the Illinois Mediaspace (links are embedded in the relevant weekly overview). You will not be directly graded for watching the videos; however, we strongly encourage you to watch them as they contain information and demonstrations that will prove helpful as you work through each week's lessons. Note that information presented in course videos may be relevant for quizzes and assessments.
 
 ### Readings ###
 
@@ -163,7 +207,7 @@ or (via the preferred approach) by interacting with them via the course
 JupyterHub server. You will be required to read and be familiar with the
 content of these documents. Readings are contextualized as part of the
 weekly lesson content and are located in the "Readings" section of each
-lesson.
+lesson. For those wishing to obtain a deeper understanding, we also present optional readings that provide additional information that is not included course quizzes and assessments.
 
 ### Lessons ###
 
@@ -183,64 +227,32 @@ by 6:00 PM Central on Thursday of that week.
 
 ### Assignments ###
 
-**Note: This section is still being finalized.**
+Every week but the first and last will contain an assignment that will involve one or more computational tasks related to the focus for that given week. Your assignment will be automatically collected at the deadline from the course JupyterHub server. These assignments will be automatically graded for your instructor grade, and will also be randomly distributed for peer assessment. You will have up to five problems from different peers to grade for your weekly peer assessment. You will receive fifteen points for simply grading your peer's assignments. Your peer assessment score will be worth a maximum of ten  points, and we will drop the two lowest scores and average the three remaining scores.
 
-Every week but the first and last will contain an assignment that will
-involve one or more computational tasks related to the focus for that
-given week. Your assignment will be automatically collected at the
-deadline from the course JupyterHub server. These assignments will be
-automatically graded for your instructor grade, and will also be
-randomly distributed for peer assessment. You will have **up to five**
-assignments to grade as part of peer assessment. You will receive thirty
-points for simply grading your peer's assignments. Your peer assessment
-score will be worth a maximum of forty points, and we will drop the
-highest and lowest score and average the three remaining scores.
-
-<!--
-However, you must submit your assignment for peer grading by using the
-Moodle Assignment tool. (Note we are exploring ways to do this within
-the course server and may update this process during the course).
-
-Each week you will be given instructions on how to complete the
-assignment, as well as directions on exactly what you must submit to the
-course Moodle site. Generally this will be in the form of an IPython
-notebook. 
--->
-
-To receive full credit from instructor grading, your assignment must be
-submitted prior to the deadline. There will be a 18-hour grace period,
-in which an assignment can be submitted, albeit with an automatic 50%
-reduction in the maximum possible score. After this grace period, no
-assignments will be accepted. The full credit assignment deadline is
-6:00 PM Central on the Monday following the relevant week. 
+To receive full credit from instructor grading, your assignment must be submitted prior to the deadline. There will be NO grace period, late assignments will not be accepted. The assignment deadline is 6:00 PM Central on the Monday following the relevant week.
 
 ### Peer Review ###
 
 Weekly assignments will be reviewed by your course peers, as well as
-automatic instructor grading. 70 points (out of the maximum 150 points
+automatic instructor grading. 25 points (out of the maximum 150 points
 for each assignment) for each weekly assignment submission
-will derive from peer review, 80 points (out of the maximum 150 points
-for each assignment) are assigned from automated instructor review. You will
-receive 30 points each week for simply viewing and grading your peers'
-assignments. Note that you can (and should) still grade your peers even
-if you miss an assignment submission. Peer review of an assignment must
-be completed by 6:00 PM Central on Saturday of the following week (i.e.,
-you submit your assignment on a Monday and you must peer assess other
-students assignments by the following Saturday). You will be assigned
-assignments to grade approximately one hour after the late assignment
-deadline, thus around 1:00 pm Tuesday afternoon of each week.
+will derive from peer review, 125 points (out of the maximum 150 points
+for each assignment) are assigned from automated instructor review. You will receive 15 points each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Saturday of the following week (i.e., you submit your assignment on a Monday and you must peer assess other students assignments by the following Saturday). You will be assigned assignments to grade approximately one hour after the late assignment deadline, thus around 1:00 pm Tuesday afternoon of each week.
 
 | **Item** | **Grade** | 
 |----|----| 
-| Instructor Assessment | 80 points |  
-| Peer Grading | 30 points | 
-|Peer Assessments | 40 points| 
+| Instructor Assessment | 125 points |  
+| Peer Grading | 15 points | 
+|Peer Assessments | 10 points| 
 | **Total** |  **150** points |
 
-Note that we will *only* review clearly erroneous peer assessments (this
-means there needs to be a major problem). Review requests that are
-deemed insignificant are subject to an *instructor determined point
-reduction*.
+Several final comments about peer grading:
+
+1. We employ peer grading in large part to enable you to see other approaches to solving the assignments. Treat this as an important aspect of the course and give reasonable grades and provide feedback to your fellow students.
+
+2. We are exploring automatic techniques to check that peer grading is being done appropriately, which will include verification of beneficial comments. As a result, we may amend the peer grading aspect of this syllabus if we feel this technology will prove beneficial. This includes potentially changing the point distribution for current and future assignments.
+
+3. Note that we will *only* review clearly erroneous peer assessments (this means there needs to be a major problem). Review requests that are deemed insignificant are subject to an *instructor determined point reduction*. An example of a **frivolous** request would be "I received no comments and lost several points.'
 
 ### Weekly Quizzes ###
 
@@ -265,9 +277,8 @@ are no exams in this course.
 |Orientation Quiz|70|1|70|
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|14 (No quiz in Week 15)|980|
-|Weekly Overview Videos|20|16 (including the Orientation Week Video)|320|
 |Assignments (Weeks 2-14)|150|13 |1950|
-|***Total***|||***4240***|
+|***Total***|||***3920***|
 
 Unlike past courses, we do not plan on dropping any weekly scores.
 
@@ -276,7 +287,7 @@ Unlike past courses, we do not plan on dropping any weekly scores.
 Final grades will be graded on a curve, if necessary. The letter grade
 cutoffs will be set at the traditional 90%, 80%, and 70% limits, and
 plus/minus will be added if you are within two points of the traditional
-cutoffs (so 100–98 is an A+ and 90–92 is an A-).
+cutoffs (so 100–98 is an A+ and 90–92 is an A-). There will be no rounding of grades, regardless of how close you are to a border.
 
 |Percentage|Letter Grade|
 |--------|---------|
@@ -297,13 +308,10 @@ cutoffs (so 100–98 is an A+ and 90–92 is an A-).
 ### Point Reductions ###
 
 This is a large, online course with only one instructor and one teaching
-assistant. Thus we require that students read the syllabus and search
+assistant. Thus we expect that students read the syllabus and search
 online forums before either emailing us directly or posting a new
 question in the Moodle forums. Failure to abide by this request may, at
-the sole discretion of the instructor, result in a loss of five points
-per **obvious** infraction. Please note that we are not trying to stifle
-questions (such as why is the FAA server down?). We simply need to
-minimize the number of such emails/questions we receive.
+the sole discretion of the instructional staff, result in a loss of five points per **obvious** infraction. Please note that we are not trying to stifle questions (such as why is some server down?). We simply need to minimize the number of such emails/questions we receive.
 
 ### Extra Credit ###
 
@@ -331,8 +339,5 @@ are due.
 | Lesson Assessments |  3 | Thursday, 6:00 pm |
 | Weekly Quiz  |  4 | Friday, 6:00 pm |
 | Assignment Collected  | 7 |  *The following* Monday, 6:00 pm |
-| Late Assignments Collected  | 8 |  *The following* Tuesday, 12:00 pm |
-| Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 1:00 pm |
+| Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 12:00 pm |
 | Peer Assessment Deadline  | 12 |  *The following* Saturday, 6:00 pm |
-
-<!--| Assignments uploaded for Peer Assessment  | 8 |  *The following* Tuesday, 12:00 pm | -->
