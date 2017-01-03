@@ -86,7 +86,7 @@ and concepts behind them, but you are responsible for your own answers.
 Please do not post code in the forums! Finally, on assessments and
 quizzes, your answers must of course be your own. For further info, see
 the [Student Code, Part 4. Academic
-Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
+Integrity](http://studentcode.illinois.edu/article1_part4_1-401.html).
 
 **Automatic Plagiarism Detection**
 This semester we will employ an automatic plagiarism detection tool on each assignment. This tool easily identifies submissions that are more similar than would be randomly expected. Each week the instructional staff will review the output from this tool, and as necessary formally identify students who we believe are guilty of cheating. The following policy will be enforced:
@@ -219,7 +219,7 @@ week must be completed by 6:00 PM Central on Thursday of that week.
 ### Lesson Assessments ###
 
 Each week will contain three lesson modules (except for the last week,
-which will contain only one). A lesson module will will include a Moodle
+which will contain only one). A lesson module will include a Moodle
 quiz designed to be taken after completing the readings and carefully
 reviewing the lesson material. Lesson quizzes will allow two attempts,
 to ensure students have mastered the relevant material before advancing
@@ -308,8 +308,8 @@ cutoffs (so 100–98 is an A+ and 90–92 is an A-). There will be no rounding o
 
 ### Point Reductions ###
 
-This is a large, online course with only one instructor and one teaching
-assistant. Thus we expect that students read the syllabus and search
+This is a large, online course with only one instructor and three teaching
+assistants. Thus we expect that students read the syllabus and search
 online forums before either emailing us directly or posting a new
 question in the Moodle forums. Failure to abide by this request may, at
 the sole discretion of the instructional staff, result in a loss of five points per **obvious** infraction. Please note that we are not trying to stifle questions (such as why is some server down?). We simply need to minimize the number of such emails/questions we receive.
@@ -322,10 +322,9 @@ in partnership with an instructor), consider writing your problem and
 solution up as a FAQ post in the github wiki. You get extra credit for
 doing this and also help your classmates!
 
-To get credit for your wiki entry you must contact the course assistant,
-Samantha Thrush. She will review your post and indicate how many points
-you will receive, and if she would be willing to review an edited post
-for additional information. You can submit multiple Wiki entries.
+To get credit for your wiki entry you must contact the course assistants. They will review your post and indicate how many points
+you will receive, and if they would be willing to review an edited post
+for additional points. You can submit multiple Wiki entries.
 
 ## Sample Weekly Schedule ##
 
