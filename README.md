@@ -1,10 +1,17 @@
 # Welcome to INFO 490: Advanced Data Science #
 
-***Professor:*** Dr. Robert Brunner
+***Professor:*** Dr. Robert J. Brunner
 
-***Teaching Assistant:***  Edward Kim
+***Course Administrator:*** Edward J. Kim
 
-***Course Assistant:*** Samantha Thrush
+***Teaching Assistants:***  
+- Xinyang Lu
+- Fizza Mughal
+- Samantha Thrush
+
+***Course Assistants:*** 
+- Drake Eidukas
+- Taeyoung Kim
 
 This class is an asynchronous, online course. This course will introduce
 and explore advanced data science concepts through practical
