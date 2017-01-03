@@ -20,7 +20,6 @@ computing.
 
 For contact information see the course [moodle site](https://learn.illinois.edu/course/view.php?id=20247).
 
-
 ## Course Goals ##
 
 Upon completion of this course, students will be expected to understand
