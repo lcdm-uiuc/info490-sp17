@@ -88,7 +88,7 @@ quizzes, your answers must of course be your own. For further info, see
 the [Student Code, Part 4. Academic
 Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
 
-** Automatic Plagiarism Detection **
+**Automatic Plagiarism Detection**
 This semester we will employ an automatic plagiarism detection tool on each assignment. This tool easily identifies submissions that are more similar than would be randomly expected. Each week the instructional staff will review the output from this tool, and as necessary formally identify students who we believe are guilty of cheating. The following policy will be enforced:
 
 - First Offense: Warning.
