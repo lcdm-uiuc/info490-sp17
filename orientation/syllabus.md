@@ -151,7 +151,7 @@ You can also communicate via the course forums and email.
 | --- | --- | --- | --- | 
 | Brunner | XXX | 1:30 pm - 2:30 pm | 226 Astronomy |
 | Lu | XXX | 10:30 am - 11:30 am | 234 Astronomy |
-| Mughal | XXX | 6:00 pm - 7:00 pm |  |
+| Mughal | Tuesday | 6:00 pm - 7:00 pm | Virtual |
 | Thrush | XXX | 4:00 pm - 5:00 pm | 234 Astronomy |
 
 
