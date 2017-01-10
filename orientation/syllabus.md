@@ -1,6 +1,6 @@
 # INFO 490: Advanced Data Science #
 
-> ## [Confusion is the Sweat of Learning][https://www.wired.com/2013/10/telling-you-the-answer-isnt-the-answer/] -Rhett Alain
+> ### [Confusion is the Sweat of Learning][https://www.wired.com/2013/10/telling-you-the-answer-isnt-the-answer/] -Rhett Alain
 
 **INFO 490: Advanced Data Science** explores advanced concepts in data science by employing a practical approach, including machine learning; probabilistic programming; text, network, and graph analysis; and cloud computing.
 
@@ -84,13 +84,12 @@ Finally, we have created a [gitter room][gr] for this course. This is a complete
 
 Scheduled office hours are listed below for all instructors. You can also communicate via the course forums and email.
 
-| Name    | Data    | Time                | Location      |
-| ------- | ------- | ------------------- | ------------- |
-| Brunner | XXX     | XYZ pm - XYZ pm     | 226 Astronomy |
-| Lu      | XXX     | 10:30 am - 11:30 am | 234 Astronomy |
-| Mughal  | Tuesday | 6:00 pm - 7:00 pm   | Virtual       |
-| Thrush  | XXX     | 4:00 pm - 5:00 pm   | 234 Astronomy |
-
+| Name    | Data     | Time              | Location      |
+| ------- | -------- | ----------------- | ------------- |
+| Brunner | XXX      | XYZ pm - XYZ pm   | 226 Astronomy |
+| Lu      | Thursday | 1:30 pm - 2:30 pm | 234 Astronomy |
+| Mughal  | Tuesday  | 6:00 pm - 7:00 pm | Virtual       |
+| Thrush  | XXX      | 4:00 pm - 5:00 pm | 234 Astronomy |
 
 ## Course Outline ##
 
