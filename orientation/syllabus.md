@@ -1,6 +1,6 @@
 # INFO 490: Advanced Data Science #
 
-> ### [Confusion is the Sweat of Learning][https://www.wired.com/2013/10/telling-you-the-answer-isnt-the-answer/] -Rhett Alain
+> ### [Confusion is the Sweat of Learning](https://www.wired.com/2013/10/telling-you-the-answer-isnt-the-answer/) -Rhett Alain
 
 **INFO 490: Advanced Data Science** explores advanced concepts in data science by employing a practical approach, including machine learning; probabilistic programming; text, network, and graph analysis; and cloud computing.
 
@@ -150,7 +150,7 @@ To receive full credit from instructor grading, your assignment must be submitte
 
 ### Peer Review ###
 
-Weekly assignments will be reviewed by your course peers, as well as automatic instructor grading. 25 points (out of the maximum 150 points for each assignment) for each weekly assignment submission will derive from peer review, 125 points (out of the maximum 150 points for each assignment) are assigned from automated instructor review. You will receive 15 points each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Saturday of the following week (i.e., you submit your assignment on a Monday and you must peer assess other students assignments by the following Saturday). You will be assigned assignments to grade approximately one hour after the late assignment deadline, thus around 1:00 pm Tuesday afternoon of each week.
+Weekly assignments will be reviewed by your course peers, as well as automatic instructor grading. 25 points (out of the maximum 150 points for each assignment) for each weekly assignment submission will derive from peer review, 125 points (out of the maximum 150 points for each assignment) are assigned from automated instructor review. You will receive 15 points each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Saturday of the following week (i.e., you submit your assignment on a Monday and you must peer assess other students assignments by the following Saturday). You will be assigned assignments to grade approximately around 12:00 pm Tuesday afternoon of each week.
 
 | **Item**              | **Grade**      |
 | --------------------- | -------------- |
