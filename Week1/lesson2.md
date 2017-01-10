@@ -40,7 +40,7 @@ _Safari Online Books_
 ### Assessment ###
 
 When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/)
+take the [Week 1 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1844373)
 
 [intro2data]: ../notebooks/intro2data.ipynb
 
