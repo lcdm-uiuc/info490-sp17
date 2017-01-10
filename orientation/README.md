@@ -45,6 +45,5 @@ To do well in this course, remember the following:
 
 -----
 [OV]: https://mediaspace.illinois.edu/media/Orientation+Week/1_dwpmxrqi/38493712
-[OQ]: https://learn.illinois.edu/mod/quiz/view.php?id=1325056
-
+[OQ]: https://learn.illinois.edu/mod/quiz/view.php?id=1844319
 [cs]: https://info490rb.studentspace.cs.illinois.edu
