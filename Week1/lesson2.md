@@ -1,9 +1,7 @@
 # Week 1 Lesson 2 #
 ## Machine Learning: Pre-processing ##
 
-In this lesson you will learn about the importance of understanding your
-data, and how to perform necessary pre-processing. This is an important
-step to ensure later analyses are actually correct and reliable.
+In this lesson you will learn about the importance of understanding your data, and how to perform necessary pre-processing. This is an important step to ensure later analyses are actually correct and reliable.
 
 ###Objectives ###
 
@@ -42,7 +40,7 @@ _Safari Online Books_
 ### Assessment ###
 
 When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1325221)
+take the [Week 1 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/)
 
-[intro2data]: notebooks/intro2data.ipynb
+[intro2data]: ../notebooks/intro2data.ipynb
 

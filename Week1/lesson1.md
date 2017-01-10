@@ -1,9 +1,7 @@
 # Week 1 Lesson 1 #
 ## Intro to Machine Learning ##
 
-In this lesson you will learn about the basics of Machine Learning,
-including the difference between supervised and unsupervised learning,
-as well as regression, classification, clustering, and dimensional
+In this lesson you will learn about the basics of Machine Learning, including the difference between supervised and unsupervised learning, as well as regression, classification, clustering, and dimensional
 reduction.
 
 ###Objectives ###
@@ -36,18 +34,9 @@ _Other Material_
 
 _Safari Online Books_
 
-The following links are to books that are available online to University
-of Illinois students, staff, and faculty via Safari Books Online. To
-access the books, you need to access the university's [Safari
-subscription][uiucsf]. Once you have authenticated via Shibboleth, you
-will need to search for the appropriate book and navigate through the
-book's table of contents to the appropriate chapter or section(s).
+The following links are to books that are available online to University of Illinois students, staff, and faculty via Safari Books Online. To access the books, you need to access the university's [Safari subscription][uiucsf]. Once you have authenticated via Shibboleth, you will need to search for the appropriate book and navigate through the book's table of contents to the appropriate chapter or section(s).
 
-**NOTE**: When you finish reading one of these online texts, be sure to
-sign our and clear session information in order to ensure you will get
-access later. You can sign out by clicking on the 'University of
-Illinois, Urbana-Champaign' menu item and selecting _Sign Out and Clear
-Session_.
+**NOTE**: When you finish reading one of these online texts, be sure to sign our and clear session information in order to ensure you will get access later. You can sign out by clicking on the 'University of Illinois, Urbana-Champaign' menu item and selecting _Sign Out and Clear Session_.
 
 - **Chapter 11: Machine Learning** from _Data Science from Scratch_, by Joel Grus.
 - **Chapter 1: Introduction** from _Data Mining: Concepts and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian Pei
@@ -55,7 +44,7 @@ Session_.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1325218)
+When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/)
 
-[intro2ml]: notebooks/intro2ml.ipynb
+[intro2ml]: ../notebooks/intro2ml.ipynb
 [uiucsf]: http://www.library.illinois.edu/proxy/go.php?url=http://proquest.safaribooksonline.com/?uicode=uiuc

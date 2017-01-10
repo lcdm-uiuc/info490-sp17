@@ -1,9 +1,7 @@
 # Week 1 Lesson 3 #
 ## Introduction to Linear Regression ##
 
-In this lesson you will learn how to perform basic linear regression by
-using Python, which is one of the simplest techniques to construct a
-predictive model from a data set.
+In this lesson you will learn how to perform basic linear regression by using Python, which is one of the simplest techniques to construct a predictive model from a data set.
 
 
 ### Objectives ###
@@ -37,7 +35,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1325224).
+Assessment](https://learn.illinois.edu/mod/quiz/).
 
-[intro2regress]: notebooks/intro2regress.ipynb
-[blr]: https://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php
+[intro2regress]: ../notebooks/intro2regress.ipynb
+[blr]: https://www.openintro.org/download.php?file=os2_07&amp;referrer=/stat/textbook/textbook_os2_chapters.php
