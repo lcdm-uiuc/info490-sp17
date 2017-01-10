@@ -44,7 +44,7 @@ The following links are to books that are available online to University of Illi
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/)
+When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1844370)
 
 [intro2ml]: ../notebooks/intro2ml.ipynb
 [uiucsf]: http://www.library.illinois.edu/proxy/go.php?url=http://proquest.safaribooksonline.com/?uicode=uiuc
