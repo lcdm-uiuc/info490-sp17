@@ -35,7 +35,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/).
+Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1844376).
 
 [intro2regress]: ../notebooks/intro2regress.ipynb
 [blr]: https://www.openintro.org/download.php?file=os2_07&amp;referrer=/stat/textbook/textbook_os2_chapters.php
