@@ -44,7 +44,7 @@ Academic honesty is essential to this course and the University. Any instance of
 **Guidelines for collaborative work**: Discussing course material with your classmates is in general a good idea, but each student is expected to do his or her own work. On assignments, you may discuss the problems and concepts behind them, but you are responsible for your own answers. Please do not post code in the forums! Finally, on assessments and quizzes, your answers must of course be your own. For further info, see the [Student Code, Part 4. Academic Integrity](http://studentcode.illinois.edu/article1_part4_1-401.html).
 
 **Automatic Plagiarism Detection**
-This semester we will employ an automatic plagiarism detection tool on each assignment. This tool easily identifies submissions that are more similar than would be randomly expected. Each week the instructional staff will review the output from this tool, and as necessary formally identify students who we believe are guilty of cheating. The following policy will be enforced:
+This semester we will employ an automatic plagiarism detection tool on each assignment. This tool easily identifies submissions that are more similar than would be randomly expected. Each week the instructional staff will review the output from this tool, and as necessary formally identify students who we believe are guilty of cheating. At a minimum, the following policy will be enforced:
 
 - **First** Offense: Warning.
 - **Second** Offense: Zero on affected assignment.
