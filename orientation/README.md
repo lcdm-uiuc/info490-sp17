@@ -22,10 +22,10 @@ Below is a list of the activities and assignments you must complete in this orie
 
 | Activity                                 | Time Estimate | Deadline                 | Points |
 | ---------------------------------------- | ------------- | ------------------------ | ------ |
-| [Course Overview Video][OV]              | 15 Minutes    | *The following* Saturday | NA     |
-| [Course Information and Resources (Syllabus)](syllabus.md) | 1 Hour        | *The following* Saturday | NA     |
-| [Orientation Quiz][OQ]                   | 45 minutes    | *The following* Saturday | 70     |
-| [Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md) | 60 Minutes    | *The following* Saturday | 60     |
+| [Course Overview Video][OV]              | 15 Minutes    | Feb. 1st | NA     |
+| [Course Information and Resources (Syllabus)](syllabus.md) | 1 Hour        | Feb. 1st | NA     |
+| [Orientation Quiz][OQ]                   | 45 minutes    | Feb. 1st | 70     |
+| [Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md) | 60 Minutes    | Feb. 1st | 60     |
 
 In this course, we will be using a JupyterHub server that is running on the CS department's cloud computing system. To access this system, you must be on the University network. If you wish to work off campus, you must first [VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn) into campus. To learn how to connect to this server, and how to work with the course material, you should logon to the course [JupyterHub server][cs], and locate, run, and explore the [Introduction to IPython](../notebooks/intro2ipy.ipynb) notebook to become familiar with using notebooks on the course JupyterHub server. 
 
