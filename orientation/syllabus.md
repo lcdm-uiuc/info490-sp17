@@ -84,12 +84,12 @@ Finally, we have created a [gitter room][gr] for this course. This is a complete
 
 Scheduled office hours are listed below for all instructors. You can also communicate via the course forums and email.
 
-| Name    | Data     | Time              | Location      |
+| Name    | Day     | Time              | Location      |
 | ------- | -------- | ----------------- | ------------- |
 | Brunner | XXX      | XYZ pm - XYZ pm   | 226 Astronomy |
 | Lu      | Thursday | 1:30 pm - 2:30 pm | 234 Astronomy |
 | Mughal  | Tuesday  | 6:00 pm - 7:00 pm | Virtual       |
-| Thrush  | XXX      | 4:00 pm - 5:00 pm | 234 Astronomy |
+| Thrush  | Friday   | 1:00 pm - 2:00 pm | 234 Astronomy |
 
 ## Course Outline ##
 
