@@ -26,4 +26,4 @@ In this week, you will learn basic concepts about machine learning, including th
 
 ----------
 [w1v]: https://mediaspace.illinois.edu/media/
-[w1q]: https://learn.illinois.edu/mod/quiz/
+[w1q]: https://learn.illinois.edu/mod/quiz/view.php?id=1844328
