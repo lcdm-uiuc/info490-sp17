@@ -44,6 +44,6 @@ To do well in this course, remember the following:
 - When possible, provide tips and suggestions to your peers in this class. As a learning community, we can help each other learn and grow. One way of doing this is by helping to address the questions that your peers pose. By engaging with each other, we'll all learn better.
 
 -----
-[OV]: https://mediaspace.illinois.edu/media/Orientation+Week/1_dwpmxrqi/38493712
+[OV]: https://mediaspace.illinois.edu/media/Orientation+Video/1_ohcgsm5c/63153661
 [OQ]: https://learn.illinois.edu/mod/quiz/view.php?id=1844319
 [cs]: https://info490rb.studentspace.cs.illinois.edu
