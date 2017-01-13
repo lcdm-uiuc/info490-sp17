@@ -25,6 +25,10 @@ _Other Material_
 - Read [What do I do](http://simplystatistics.org/2014/06/13/what-i-do-when-i-get-a-new-data-set-as-told-through-tweets/)
 - Read the [Quartz guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
+_Video_
+
+[Week One, Lesson 2 video](https://mediaspace.illinois.edu/media/w1l2.mp4/1_27t3jxhl/63153661)
+
 #### *Optional Additional Readings*####
 
 - [Rescaling Data for ML](http://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/)
