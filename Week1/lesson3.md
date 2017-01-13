@@ -23,6 +23,10 @@ _Course Notebook_
 _Other Material_
 - Read through Section 3 of [Chapter 7, Linear Regression][blr]
 
+_Video_
+
+[Week One, Lesson 3 video](https://mediaspace.illinois.edu/media/W1L3.mp4/1_6ktx0ohd/63153661)
+
 #### *Optional Additional Readings*####
 
 - Notes on [Linear Regression](http://people.duke.edu/%7Ernau/Notes_on_linear_regression_analysis--Robert_Nau.pdf)
