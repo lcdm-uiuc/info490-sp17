@@ -28,6 +28,10 @@ _Other Material_
 - The _Problem Setting_ section, from the [scikit learn Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html#machine-learning-the-problem-setting)
 - Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
+_Video_
+
+[Week One, Lesson 1 video](https://mediaspace.illinois.edu/media/W1L1/1_utatcwcm/63153661)
+
 #### *Optional Additional Readings*####
 
 - An intro to [performing machine learning in Python](https://www.pythonprogramming.net/machine-learning-python-sklearn-intro/)
