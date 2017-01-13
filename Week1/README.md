@@ -25,5 +25,5 @@ In this week, you will learn basic concepts about machine learning, including th
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w1v]: https://mediaspace.illinois.edu/media/
+[w1v]: https://mediaspace.illinois.edu/media/W1+OV/1_c99xd3yq/63153661
 [w1q]: https://learn.illinois.edu/mod/quiz/view.php?id=1844328
