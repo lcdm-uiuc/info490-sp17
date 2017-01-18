@@ -25,7 +25,7 @@ _Other Material_
 
 _Video_
 
-[Week One, Lesson 3 video](https://mediaspace.illinois.edu/media/W1L3.mp4/1_6ktx0ohd/63153661)
+[Week One, Lesson 3 video](https://mediaspace.illinois.edu/media/W1L3/1_bvvdxzo6)
 
 #### *Optional Additional Readings*####
 
