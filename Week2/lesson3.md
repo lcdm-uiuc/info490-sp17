@@ -1,10 +1,7 @@
 # Week 2 Lesson 3 #
 ## Introduction to Logistic Regression ##
 
-In this lesson, you will learn about logistic regression, where
-regression is performed on a variable which can take a binary value
-(e.g., True/False or Yes/No) in the simple case, or multiple values in a
-more advanced categorical case.
+In this lesson, you will learn about logistic regression, where regression is performed on a variable which can take a binary value (e.g., True/False or Yes/No) in the simple case, or multiple values in a more advanced categorical case.
 
 
 ### Objectives###
@@ -22,20 +19,23 @@ Approximately 2 hours.
 _Course Notebook_
 
 - Explore the course [Introduction to Logistic Regression][intro2lr]
-IPython Notebook on the course JupyterHub server.
+  IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- [Logistic Regression][lr] by using Python. Note, they use older Python
-and IPython constructs (do not use %pylab, for example).
+- [Logistic Regression][lr] by using Python. Note, they use older Python and IPython constructs (do not use `%pylab`, for example).
 - [Wikipedia article on Logistic Regression][wlog] through (at least) the Latent Variable Interpretation.
 - Read Section 4 of [Chapter 8, Linear Regression][blr]
 
-#### *Optional Additional Readings* ####
+_Video_
+
+[Week Two, Lesson 3 video][lv]
+
+#### Optional Additional Readings*
 
 - Section 4.3 from [Elements of Statistical Learning][esl] by Trevor
-Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
-mathematical in nature.
+  Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+  mathematical in nature.
 
 _Safari Online Books_
 
@@ -45,11 +45,12 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 3 Assessment][wa]
 
+[lv]: http://mediaspace.illinois.edu
 [intro2lr]: ../notebooks/intro2lr.ipynb
 
 [lr]: http://blog.yhat.com/posts/logistic-regression-and-python.html
 [wlog]: https://en.wikipedia.org/wiki/Logistic_regression
-[blr]: https://www.openintro.org/download.php?file=os2_08&referrer=/stat/textbook/textbook_os2_chapters.php
+[blr]: https://www.openintro.org/download.php?file=os2_08&amp;referrer=/stat/textbook/textbook_os2_chapters.php
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1844385

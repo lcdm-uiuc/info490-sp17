@@ -1,9 +1,7 @@
 # Week 2 Lesson 2#
 ## Introduction to Regularization ##
 
-In this lesson, you will learn about regularization techniques that can
-both improve the quality of a fit by reducing the likelihood of
-overfitting and aid in feature selection.
+In this lesson, you will learn about regularization techniques that can both improve the quality of a fit by reducing the likelihood of overfitting and aid in feature selection.
 
 ###Objectives ###
 
@@ -21,27 +19,27 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Regularization][regularization]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Regularization][regularization] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- [Regularized Linear Regression][rlr] using Python. Note there is an
-IPython notebook available at the end of the blog post.
-- Introduction and Motivation sections of the [Wikipedia article on
-Lasso][wlas] (feel free to read more).
-- Introduction and History sections of the [Wikipedia article on Ridge
-Regression][wrid] (feel free to read more).
+- [Regularized Linear Regression][rlr] using Python. Note there is an IPython notebook available at the end of the blog post.
+- Introduction and Motivation sections of the [Wikipedia article on Lasso][wlas] (feel free to read more).
+- Introduction and History sections of the [Wikipedia article on Ridge Regression][wrid] (feel free to read more).
 - Discusion on [Bias-Variance Tradeoff][dbv], which is an important
-factor in reducing the likelihood of overfitting (or underfitting).
+  factor in reducing the likelihood of overfitting (or underfitting).
+
+_Video_
+
+[Week Two, Lesson 1 video][lv]
 
 #### *Optional Additional Readings*####
 
 - Section 6.2 from [Introduction to Statistical Learning][isl]  by
-Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - Section 3.4 from [Elements of Statistical Learning][esl] by Trevor
-Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
-mathematical in nature.
+  Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+  mathematical in nature.
 
 _Safari Online Books_
 
@@ -51,6 +49,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
 
+[lv]: http://mediaspace.illinois.edu
 [regularization]: ../notebooks/regularization.ipynb
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
