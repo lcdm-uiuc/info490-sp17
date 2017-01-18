@@ -1,4 +1,4 @@
-# INFO 490: Advanced Data Science #
+﻿# INFO 490: Advanced Data Science #
 
 > ### [Confusion is the Sweat of Learning](https://www.wired.com/2013/10/telling-you-the-answer-isnt-the-answer/) -Rhett Alain
 
@@ -87,7 +87,7 @@ Scheduled office hours are listed below for all instructors. You can also commun
 | Name    | Day     | Time              | Location      |
 | ------- | -------- | ----------------- | ------------- |
 | Brunner | XXX      | XYZ pm - XYZ pm   | 226 Astronomy |
-| Lu      | Thursday | 1:30 pm - 2:30 pm | 234 Astronomy |
+| Lu      | Thursday | 10:30 am - 11:30 am | 234 Astronomy |
 | Mughal  | Tuesday  | 6:00 pm - 7:00 pm | Virtual       |
 | Thrush  | Friday   | 1:00 pm - 2:00 pm | 234 Astronomy |
 
