@@ -58,5 +58,5 @@ When you have completed and worked through the above readings, please take the [
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [wlas]: https://en.wikipedia.org/wiki/Lasso_(statistics)
 [wrid]: https://en.wikipedia.org/wiki/Tikhonov_regularization
-[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325233
+[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1844382
 [dbv]: http://scott.fortmann-roe.com/docs/BiasVariance.html

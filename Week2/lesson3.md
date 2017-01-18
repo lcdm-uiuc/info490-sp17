@@ -52,5 +52,5 @@ When you have completed and worked through the above readings, please take the [
 [blr]: https://www.openintro.org/download.php?file=os2_08&referrer=/stat/textbook/textbook_os2_chapters.php
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
-[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325236
+[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1844385
 
