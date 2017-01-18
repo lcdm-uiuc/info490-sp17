@@ -53,7 +53,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 1 Assessment][wa]
 
-[mvregress]: notebooks/mvregress.ipynb
+[mvregress]: ../notebooks/mvregress.ipynb
 
 [bpsm]: http://connor-johnson.com/2014/02/18/linear-regression-with-python/
 [bglr]: http://www.datarobot.com/blog/ordinary-least-squares-in-python/

@@ -51,7 +51,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
 
-[regularization]: notebooks/regularization.ipynb
+[regularization]: ../notebooks/regularization.ipynb
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/

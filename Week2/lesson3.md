@@ -45,7 +45,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 3 Assessment][wa]
 
-[intro2lr]: ../../notebooks/intro2lr.ipynb
+[intro2lr]: ../notebooks/intro2lr.ipynb
 
 [lr]: http://blog.yhat.com/posts/logistic-regression-and-python.html
 [wlog]: https://en.wikipedia.org/wiki/Logistic_regression
