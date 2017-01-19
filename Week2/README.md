@@ -27,5 +27,5 @@ In this week, you will build on previous material to develop more powerful techn
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1844331
+[w2q]: https://mediaspace.illinois.edu/media/Week+Two+Overview/1_54oz3rky
 [w2v]: https://mediaspace.illinois.edu/media/
