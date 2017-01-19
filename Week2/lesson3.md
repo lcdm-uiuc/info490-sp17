@@ -48,7 +48,7 @@ When you have completed and worked through the above readings, please take the [
 [lv]: http://mediaspace.illinois.edu
 [intro2lr]: ../notebooks/intro2lr.ipynb
 
-[lr]: http://blog.yhat.com/posts/logistic-regression-and-python.html
+[lr]: http://blog.yhat.com/posts/logistic-regression-python-rodeo.html
 [wlog]: https://en.wikipedia.org/wiki/Logistic_regression
 [blr]: https://www.openintro.org/download.php?file=os2_08&amp;referrer=/stat/textbook/textbook_os2_chapters.php
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
