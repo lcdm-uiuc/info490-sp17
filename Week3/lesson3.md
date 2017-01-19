@@ -53,8 +53,8 @@ Pei.
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2nb.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325248
+[l3nb]: ../notebooks/intro2nb.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [snb]: http://scikit-learn.org/stable/modules/naive_bayes.html
 [unb]: http://blog.yhat.com/posts/naive-bayes-in-python.html

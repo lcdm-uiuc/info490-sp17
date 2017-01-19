@@ -59,9 +59,9 @@ Fawcett.
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2knn.ipynb
+[l1nb]: ../notebooks/intro2knn.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325242
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [bcm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
 [brm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics

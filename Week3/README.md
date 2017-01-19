@@ -24,16 +24,16 @@ compare the results of different machine learning algorithms.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 3 Introduction Video][wv]** |10 Minutes|Tuesday|20|
+|**[Week 3 Introduction Video][wv]** |10 Minutes|Tuesday|N/A|
 |**[Week 3 Lesson 1: Supervised Learning: k-Nearest Neighbor](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 3 Lesson 2: Supervised Learning: Support Vector Machine](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 3 Lesson 3: Supervised Learning: Naive Bayes](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 3 Quiz][wq]**| 45 Minutes | Friday | 70|
-|**Week 3 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
-|**Week 3 Completion of Peer Review**| 2 Hours | *The following* Saturday | 30 | 
+|**Week 3 Assignment Submission**| 4 Hours | *The following* Monday | 125 Instructor, 10 Peers | 
+|**Week 3 Completion of Peer Review**| 2 Hours | *The following* Saturday | 15 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/Week+Three.mp4/1_kqnpsa84/38493712
-[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325086
+[wv]: https://mediaspace.illinois.edu/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=

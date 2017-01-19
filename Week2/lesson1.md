@@ -57,7 +57,7 @@ When you have completed and worked through the above readings, please take the [
 
 
 
-[lv]: http://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/Week+2+Lesson+1/1_41gjft6a/63153661
 [mvregress]: ../notebooks/mvregress.ipynb
 
 [bpsm]: http://connor-johnson.com/2014/02/18/linear-regression-with-python/

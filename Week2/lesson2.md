@@ -31,7 +31,7 @@ _Other Material_
 
 _Video_
 
-[Week Two, Lesson 1 video][lv]
+[Week Two, Lesson 2 video][lv]
 
 #### *Optional Additional Readings*####
 
@@ -49,7 +49,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
 
-[lv]: http://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/Week+2+Lesson+2/1_v2spr1ny/63153661
 [regularization]: ../notebooks/regularization.ipynb
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
