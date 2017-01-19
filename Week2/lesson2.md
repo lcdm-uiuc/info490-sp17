@@ -49,7 +49,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
 
-[lv]: https://mediaspace.illinois.edu/media/Week+2+Lesson+2/1_hr27z1ca
+[lv]: 
 [regularization]: ../notebooks/regularization.ipynb
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
