@@ -31,7 +31,7 @@ _Other Material_
 
 _Video_
 
-[Week Two, Lesson 1 video][lv]
+[Week Two, Lesson 2 video][lv]
 
 #### *Optional Additional Readings*####
 
