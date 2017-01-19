@@ -66,8 +66,8 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 4 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2rf.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325257
+[l2nb]: ../notebooks/intro2rf.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [seba]: http://scikit-learn.org/stable/modules/ensemble.html#bagging
 

@@ -57,8 +57,8 @@ mathematical in nature.
 
 When you have completed and worked through the above readings, please take the [Week 4 Lesson 3 Assessment][la]
 
-[l2nb]: notebooks/intro2gbt.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325260
+[l2nb]: ../notebooks/intro2gbt.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [sada]: http://scikit-learn.org/stable/modules/ensemble.html#adaboost
 [sgbt]: http://scikit-learn.org/stable/modules/ensemble.html#gradient-tree-boosting

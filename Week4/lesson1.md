@@ -54,9 +54,9 @@ Fawcett.
 
 When you have completed and worked through the above readings, please take the [Week 4 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2dt.ipynb
+[l1nb]: ../notebooks/intro2dt.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325254
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [vdt]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [wdt]: https://en.wikipedia.org/wiki/Decision_tree
