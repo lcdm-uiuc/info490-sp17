@@ -86,7 +86,7 @@ Scheduled office hours are listed below for all instructors. You can also commun
 
 | Name    | Day     | Time              | Location      |
 | ------- | -------- | ----------------- | ------------- |
-| Brunner | XXX      | XYZ pm - XYZ pm   | 226 Astronomy |
+| Brunner | Thursday | 3:00 pm - 4:00 pm   | 226 Astronomy |
 | Lu      | Thursday | 10:30 am - 11:30 am | 234 Astronomy |
 | Mughal  | Tuesday  | 6:00 pm - 7:00 pm | Virtual       |
 | Thrush  | Friday   | 1:00 pm - 2:00 pm | 234 Astronomy |
