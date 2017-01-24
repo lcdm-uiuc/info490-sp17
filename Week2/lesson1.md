@@ -35,7 +35,7 @@ _Video_
 
 [Week Two, Lesson 1 video][lv]
 
-#### Optional Additional Readings*
+#### Optional Additional Readings
 
 - Chapter 11 of [Think Stats][ts], second edition by Allen Downey.
 - Section 3.2 from [Introduction to Statistical Learning][isl]  by

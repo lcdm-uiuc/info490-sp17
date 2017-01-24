@@ -1,13 +1,7 @@
 # Week 3 Lesson 1 #
 ## Supervised Learning: Nearest Neighbor ##
 
-In this lesson, you will gain an introduction to Supervised Learning,
-specifically via the nearest neighbor algorithm and a discussion of
-classification and regression metrics such as precision, recall, and f1
-score. The nearest neighbor algorithm, more generally known as k-nearest
-neighbor is one of the simplest machine learning algorithms to learn,
-and often provides a quick and easy benchmark comparison for more
-advanced techniques. 
+In this lesson, you will gain an introduction to Supervised Learning, specifically via the nearest neighbor algorithm and a discussion of classification and regression metrics such as precision, recall, and f1 score. The nearest neighbor algorithm, more generally known as k-nearest neighbor is one of the simplest machine learning algorithms to learn, and often provides a quick and easy benchmark comparison for more advanced techniques. 
 
 ###Objectives ###
 
@@ -25,8 +19,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [knn][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [knn][l1nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -36,31 +29,30 @@ _Other Material_
 - A discussion of [using k-nn][yknn]
 - An introduction to [k-nearest neighbors][knnb]
 
-## Optional Readings ##
+_Video_
+
+[Week Three, Lesson 1 video][lv]
+
+#### Optional Additional Readings
 
 - Scikit Learn [knn][sknn] documentation
 - Discussion of [using knn in scikit learn][dknn]
 - Kaggle video blog post on [Using k-NN][kknnb]
 
-- Section 2.2 (KNN subsection) from [Introduction to Statistical Learning][isl]  by
-Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-- Section 13.3 from [Elements of Statistical Learning][esl] by Trevor
-Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
-mathematical in nature.
+- Section 2.2 (KNN subsection) from [Introduction to Statistical Learning][isl]  by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+- Section 13.3 from [Elements of Statistical Learning][esl] by Trevor Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather mathematical in nature.
 
 _Safari Online Books_
 
 - **Chapter 12: k-Nearest Neighbors** from _Data Science from Scratch_, by Joel Grus.
-- First three sections in **Chapter 6. Similarity, Neighbors, and
-Clusters** from _Data Science for Business_ by Foster Provost and Tom
-Fawcett.
+- First three sections in **Chapter 6. Similarity, Neighbors, and Clusters** from Data Science for Business_ by Foster Provost and Tom Fawcett.
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2knn.ipynb
-
+[lv]: http://mediaspace.illinois.edu
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844388
 
 [bcm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
