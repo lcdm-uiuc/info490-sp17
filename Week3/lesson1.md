@@ -55,8 +55,8 @@ When you have completed and worked through the above readings, please take the [
 [lv]: http://mediaspace.illinois.edu
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844388
 
-[bcm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
-[brm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics
+[bcm]: https://web.archive.org/web/20160430205320/http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
+[brm]: https://web.archive.org/web/20160304134518/http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics
 [wcm]: https://en.wikipedia.org/wiki/Precision_and_recall
 [sknn]: http://scikit-learn.org/stable/modules/neighbors.html
 [yknn]: http://blog.yhat.com/posts/classification-using-knn-and-python.html
