@@ -48,7 +48,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 3 Assessment][la]
 
 [l3nb]: ../notebooks/intro2nb.ipynb
-[lv]: http://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w3l3/1_5t940233/63153661
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844394
 
 [snb]: http://scikit-learn.org/stable/modules/naive_bayes.html
