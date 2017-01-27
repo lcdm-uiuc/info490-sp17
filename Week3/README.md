@@ -28,5 +28,5 @@ In this week, you will learn about several basic supervised learning algorithms,
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/
+[wv]: https://mediaspace.illinois.edu/media/w3ov/1_bl06thpg/63153661
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844334
