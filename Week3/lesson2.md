@@ -52,7 +52,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2svm.ipynb
-[lv]: http://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w3l2/1_dv5g3alh/63153661
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844391
 
 [isvm]: http://www.yaksis.com/posts/why-use-svm.html
