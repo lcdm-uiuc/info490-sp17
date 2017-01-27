@@ -52,7 +52,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2knn.ipynb
-[lv]: http://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/W3l1/1_j3328uq8/63153661
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844388
 
 [bcm]: https://web.archive.org/web/20160430205320/http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
