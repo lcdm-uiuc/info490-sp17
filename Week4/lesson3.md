@@ -40,6 +40,10 @@ _Other Material_
 - A comparison between [Bagging and Boosting][cbb]
 - A blog detailing how to use [Gradient Boosted Trees][bgbt] with a corresponding [Notebook][ngbt]
 
+_Video_
+
+[Week Four, Lesson 3 video][lv]
+
 ## Optional Readings ##
 
 - Scikit Learn [Adaboost][sada] documentation
@@ -58,6 +62,8 @@ mathematical in nature.
 When you have completed and worked through the above readings, please take the [Week 4 Lesson 3 Assessment][la]
 
 [l2nb]: ../notebooks/intro2gbt.ipynb
+
+[lv]: https://mediaspace.illinois.edu/media/w4l3/1_ihj1xwgu
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [sada]: http://scikit-learn.org/stable/modules/ensemble.html#adaboost
