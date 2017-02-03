@@ -44,6 +44,10 @@ _Other Material_
 - An [introduction to random forests][arf1] Part I
 - An [introduction to random forests][arf2] Part II
 
+_Video_
+
+[Week Four, Lesson 2 video][lv]
+
 ## Optional Readings ##
 
 - A Kaggle [discussion on random forests][krf]
@@ -67,6 +71,8 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 4 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2rf.ipynb
+
+[lv]: https://mediaspace.illinois.edu/media/w4l2/1_40t6rckl
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=
 
 [seba]: http://scikit-learn.org/stable/modules/ensemble.html#bagging
