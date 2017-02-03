@@ -38,5 +38,5 @@ how to leverage them to build bagging and boosted ensemble learners.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/
+[wv]: https://mediaspace.illinois.edu/media/w4ov/1_vhaqa1v1/63153661
 [wq]: https://learn.illinois.edu/
