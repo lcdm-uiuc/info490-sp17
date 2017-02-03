@@ -1,4 +1,4 @@
-#Week 4 Overview#
+# Week 4 Overview #
 
 ## Tree Algorithms and Ensemble Techniques ##
 
@@ -15,7 +15,7 @@ how to leverage them to build bagging and boosted ensemble learners.
 
 ### Objectives ###
 
-#####By the end of this lesson, you should be able to:######
+##### By the end of this lesson, you should be able to: ######
 
 - Understand the decision tree algorithm
 - Understand the basic concept behind ensemble techniques
@@ -25,15 +25,15 @@ how to leverage them to build bagging and boosted ensemble learners.
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline* | Points|
-|:------| -----|-------|----------:|
-|**[Week 4 Introduction Video][wv]** |10 Minutes|Tuesday|N/A|
-|**[Week 4 Lesson 1: Introduction to Decision Trees](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 4 Lesson 2: Ensemble Techniques: Bagging](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 4 Lesson 3: Ensemble Techniques: Boosting](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**[Week 4 Quiz][wq]**| 45 Minutes | Friday | 70|
-|**Week 4 Assignment Submission**| 4 Hours | *The following* Monday | 125 Instructor, 10 Peers | 
-|**Week 4 Completion of Peer Review**| 2 Hours | *The following* Saturday | 15 | 
+| Activities and Assignments               | Time Estimate | Deadline*                |                   Points |
+| :--------------------------------------- | ------------- | ------------------------ | -----------------------: |
+| **[Week 4 Introduction Video][wv]**      | 10 Minutes    | Tuesday                  |                      N/A |
+| **[Week 4 Lesson 1: Introduction to Decision Trees](lesson1.md)** | 2 Hours       | Thursday                 |                       20 |
+| **[Week 4 Lesson 2: Ensemble Techniques: Bagging](lesson2.md)** | 2 Hours       | Thursday                 |                       20 |
+| **[Week 4 Lesson 3: Ensemble Techniques: Boosting](lesson3.md)** | 2 Hours       | Thursday                 |                       20 |
+| **[Week 4 Quiz][wq]**                    | 45 Minutes    | Friday                   |                       70 |
+| **Week 4 Assignment Submission**         | 4 Hours       | *The following* Monday   | 125 Instructor, 10 Peers |
+| **Week 4 Completion of Peer Review**     | 2 Hours       | *The following* Saturday |                       15 |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
