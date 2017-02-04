@@ -61,7 +61,7 @@ When you have completed and worked through the above readings, please take the [
 [l1nb]: ../notebooks/intro2dt.ipynb
 
 [lv]: https://mediaspace.illinois.edu/media/w4l1/1_tqh40kvc/63153661
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844397
 
 [vdt]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [wdt]: https://en.wikipedia.org/wiki/Decision_tree
