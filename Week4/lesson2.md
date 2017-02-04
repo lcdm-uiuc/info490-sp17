@@ -73,7 +73,7 @@ When you have completed and worked through the above readings, please take the [
 [l2nb]: ../notebooks/intro2rf.ipynb
 
 [lv]: https://mediaspace.illinois.edu/media/w4l2/1_40t6rckl
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844400
 
 [seba]: http://scikit-learn.org/stable/modules/ensemble.html#bagging
 
@@ -81,7 +81,7 @@ When you have completed and worked through the above readings, please take the [
 [yrfp]: http://blog.yhat.com/posts/random-forests-in-python.html
 [arf1]: http://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/
 [arf2]: http://www.analyticsvidhya.com/blog/2015/09/random-forest-algorithm-multiple-challenges/
-[krf]: https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
+[krf]: https://web.archive.org/web/20161220002809/https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
 
 [wb]: https://en.wikipedia.org/wiki/Bootstrap_aggregating
 
