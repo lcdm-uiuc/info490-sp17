@@ -64,7 +64,7 @@ When you have completed and worked through the above readings, please take the [
 [l2nb]: ../notebooks/intro2gbt.ipynb
 
 [lv]: https://mediaspace.illinois.edu/media/w4l3/1_ihj1xwgu
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844403
 
 [sada]: http://scikit-learn.org/stable/modules/ensemble.html#adaboost
 [sgbt]: http://scikit-learn.org/stable/modules/ensemble.html#gradient-tree-boosting
