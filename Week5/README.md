@@ -29,8 +29,8 @@ discrete data set, respectively.
 | **[Week 5 Lesson 2: Introduction to clustering](lesson2.md)** | 2 Hours       | Thursday                 |                     20 |
 | **[Week 5 Lesson 3: Introduction to density estimation](lesson3.md)** | 2 Hours       | Thursday                 |                     20 |
 | **[Week 5 Quiz][wq]**                    | 45 Minutes    | Friday                   |                     70 |
-| **Week 5 Assignment Submission**         | 4 Hours       | *The following* Monday   | 80 Instructor, 40 Peer |
-| **Week 5 Completion of Peer Review**     | 2 Hours       | *The following* Saturday |                     30 |
+| **Week 5 Assignment Submission**         | 4 Hours       | *The following* Monday   | 125 Instructor, 10 Peer |
+| **Week 5 Completion of Peer Review**     | 2 Hours       | *The following* Saturday |                     15 |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
