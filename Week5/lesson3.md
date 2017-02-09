@@ -40,6 +40,10 @@ _Other Material_
 - Using density estimation to [improve data visualization with Seaborn][skde]
 - Density Estimation from [Silverman][sde], read through Section 2.5.
 
+_Video_
+
+[Week Five, Lesson 3 video][lv]
+
 ## Optional Readings ##
 
 - Wikpedia article on [density estimation][wde]
@@ -56,6 +60,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2de.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325281
+[lv]: https://mediaspace.illinois.edu/media/W5L3/0_rs6pcygx/63153661
 
 [gde]: http://www.lancs.ac.uk/~struijke/density/index.html
 [sde]: http://ned.ipac.caltech.edu/level5/March02/Silverman/Silver_contents.html
