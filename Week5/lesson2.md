@@ -37,6 +37,10 @@ _Other Material_
 - A visual introduction to [DBSCAN][vdbs]
 - A blog discussing [PCA and Clustering][bpc]
 
+_Video_
+
+[Week Five, Lesson 2 video][lv]
+
 ## Optional Readings ##
 
 - Wikpedia article on [k-means][wkm]
@@ -68,6 +72,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2cluster.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325278
+[lv]: https://mediaspace.illinois.edu/media/W5L2/0_h6wp9vce/63153661
 
 [vkm]: http://www.naftaliharris.com/blog/visualizing-k-means-clustering/
 [vdbs]: http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
