@@ -36,6 +36,10 @@ _Other Material_
 - A [simple introduction][spca] PCA
 - A [three step guide][bpca] to PCA.
 
+_Video_
+
+[Week Five, Lesson 1 video][lv]
+
 ## Optional Readings ##
 
 - A [gentle introduction][gipca], including the linear algebra required to understand PCA.
@@ -60,6 +64,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2dr.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325275
+[lv]: https://mediaspace.illinois.edu/media/W5L1/0_qr68cnaw/63153661
 
 [bpca]: http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 [spca]: http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
