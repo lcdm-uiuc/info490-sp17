@@ -71,7 +71,7 @@ Fawcett.
 When you have completed and worked through the above readings, please take the [Week 5 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2cluster.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325278
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844409
 [lv]: https://mediaspace.illinois.edu/media/W5L2/0_h6wp9vce/63153661
 
 [vkm]: http://www.naftaliharris.com/blog/visualizing-k-means-clustering/
