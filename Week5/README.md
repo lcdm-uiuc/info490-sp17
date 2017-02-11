@@ -36,4 +36,4 @@ discrete data set, respectively.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/W5OV/0_j69luko5/63153661
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844340
