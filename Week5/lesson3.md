@@ -59,7 +59,7 @@ mathematical in nature.
 When you have completed and worked through the above readings, please take the [Week 5 Lesson 3 Assessment][la]
 
 [l2nb]: ../notebooks/intro2de.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325281
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844412
 [lv]: https://mediaspace.illinois.edu/media/W5L3/0_rs6pcygx/63153661
 
 [gde]: http://www.lancs.ac.uk/~struijke/density/index.html
