@@ -2,13 +2,13 @@
 ## Machine Learning: Introduction to Anomaly Detection ##
 
 In this lesson, you will be introduced to the concept of anomaly
-detection. An anomaly is simple something that is unexpected or that
+detection. An anomaly is simply something that is unexpected or that
 does not conform to an expected pattern. Anomaly detection is the search
 for these events or observations in a (potentially) large data set.
 Anomaly detection is important in many fields, and is used to identify
 fraudulent transactions, imposters in social communities, errors in
 textual data, issues in medical data (e.g., images), or intrusions in
-network data. In some cases, we simple want to identify and remove
+network data. In some cases, we simply want to identify and remove
 outliers to improve the accuracy of a model. In other cases, we are
 actually interested in the outliers themselves. As a result, anomaly
 detection is a rich field with a number of different approaches
@@ -56,7 +56,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2ad.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325290
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844418
 
 [doo]: http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm
 
