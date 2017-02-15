@@ -39,6 +39,10 @@ _Other Material_
 - An overview of statistical approaches to the [Detection of Outliers][doo] by NIST
 - Through Section 1.2 of the [Anomaly Detection: A Survey][ads] (note you need to be on the campus network to access).
 
+_Video_
+
+[Week Six, Lesson 2 video][lv]
+
 ## Optional Readings ##
 
 - Blog article from Sift Science on including [Decision Forests][df] in their fraud detection pipeline
@@ -57,6 +61,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2ad.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844418
+[lv]: https://mediaspace.illinois.edu/media/Week+6+Lesson+2/0_lj0kg9k2/63153661
 
 [doo]: http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm
 
