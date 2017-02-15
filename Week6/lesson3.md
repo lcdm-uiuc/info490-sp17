@@ -1,6 +1,6 @@
-# Week 6 Lesson 3
+# Week 6 Lesson 3 #
 
-## Machine Learning: Practical Concepts
+## Machine Learning: Practical Concepts ##
 
 In this lesson, you will learn about several related practical concepts
 that can improve the performance of a machine learning application.
@@ -16,8 +16,8 @@ Fifth is the use of a grid search to identify optimal hyperparameters
 for a machine learning algorithm,. Finally, we look at validation and
 learning curves, which provide visual guidance on the effectiveness of a
 particular algorithm and parameter values.
-
-### Objectives
+ 
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -28,11 +28,11 @@ By the end of this lesson, you will be able to:
 - Understand the validation and learning curves and how they can help improve machine learning results
 - Understand how to use grid search to perform machine learning parameter estimation.
 
-### Time Estimate
+### Time Estimate ###
 
 Approximately 2 hours.
 
-### Readings
+### Readings ###
 
 _Course Notebook_
 
@@ -46,7 +46,11 @@ _Other Material_
 - Dato Blog post on [Validation and Testing][bvt]
 - Dato Blog post on [Hyperparameter Testing][bht]
 
-## Optional Readings
+_Video_
+
+[Week Six, Lesson 3 video][lv]
+
+## Optional Readings ##
 
 - Wikipedia article on [Cross-Validation][wcv]
 - Documentation describing scikit learn [feature scaling][sksc]  
@@ -68,12 +72,14 @@ _Safari Online Books_
 - **Chapter 8.  Visualizing Model Performance** from _Data Science for
   Business_ by Foster Provost and Tom Fawcett.
 
-### Assessment
+### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 3 Assessment][la]
 
 [l2nb]: notebooks/intro2pc.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325293
+[lv]: https://mediaspace.illinois.edu/media/Week+6+Lesson+3/0_t0qv55gw/63153661
+
 [wfs]: https://en.wikipedia.org/wiki/Feature_scaling
 [wfse]: https://en.wikipedia.org/wiki/Feature_selection
 [wcv]: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
