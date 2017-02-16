@@ -77,7 +77,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 3 Assessment][la]
 
 [l2nb]: notebooks/intro2pc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325293
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844421
 [lv]: https://mediaspace.illinois.edu/media/Week+6+Lesson+3/0_t0qv55gw/63153661
 
 [wfs]: https://en.wikipedia.org/wiki/Feature_scaling
