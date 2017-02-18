@@ -42,4 +42,4 @@ efficiency (or both).
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/Week+6+Oveview/0_d4mvrcvp/63153661
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844343

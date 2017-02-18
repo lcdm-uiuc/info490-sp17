@@ -67,7 +67,7 @@ Pei.
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2rs.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325287
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844415
 [lv]: https://mediaspace.illinois.edu/media/Week+6+Lesson+One/0_y46n87w2/63153661
 
 [wrs]: https://en.wikipedia.org/wiki/Recommender_system
