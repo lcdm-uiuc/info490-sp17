@@ -1,20 +1,9 @@
 # Week 7 Lesson 3 #
 ## Introduction to Text Mining ##
 
-In this lesson, we will be build on previous concepts to produce more
-powerful text mining applications. First, we will introduce the concept
-of stemming, where different forms of the same word are reduced to a
-common form. This can improve text mining accuracy by altering the
-frequency counts of different words or terms. Next, we will extend the
-bag of words concept to include n-grams, which are groups of n-words.
-The basic bag of words can be thought of as unigrams, or 1-grams. Higher
-order groupings include bigrams and trigrams, where words are taken
-as pairs or triples. n-grams can also improve the accuracy of text
-mining applications by introducing higher order associations. Finally,
-we will explore other machine learning concepts including dimension
-reduction and clustering as applied to text data.
- 
-###Objectives ###
+In this lesson, we will be build on previous concepts to produce more powerful text mining applications. First, we will introduce the concept of stemming, where different forms of the same word are reduced to a common form. This can improve text mining accuracy by altering the frequency counts of different words or terms. Next, we will extend the bag of words concept to include n-grams, which are groups of n-words. The basic bag of words can be thought of as unigrams, or 1-grams. Higher order groupings include bigrams and trigrams, where words are taken as pairs or triples. n-grams can also improve the accuracy of text mining applications by introducing higher order associations. Finally, we will explore other machine learning concepts including dimension reduction and clustering as applied to text data.
+
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -31,8 +20,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Mining][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Text Mining][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -43,6 +31,10 @@ _Other Material_
 - Alternative [n-gram viewer][anv]
 - Wikipedia article on [Text Clustering][wtc]
 - Blog on Sentiment Analysis with NLTK, [Part III][bsa3] and [Part IV][bsa4]
+
+_Video_
+
+[Week Seven, Lesson 3 video][lv]
 
 ## Optional Readings ##
 
@@ -62,8 +54,8 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 3 Assessment][la]
 
 [l3nb]: notebooks/intro2tm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325305
-
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu/media/
 [wst]: https://en.wikipedia.org/wiki/Stemming
 [wl]: https://en.wikipedia.org/wiki/Lemmatisation
 [wtc]: https://en.wikipedia.org/wiki/Document_clustering

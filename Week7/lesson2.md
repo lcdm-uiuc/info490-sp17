@@ -1,17 +1,9 @@
 # Week 7 Lesson 2 #
 ## Introduction to Text Classification ##
 
-In this lesson, you will be introduced to  classifying text documents,
-including to perform sentiment analysis. To improve machine
-classification of text documents, we will identify stop words and
-demonstrate how they can be removed from the analysis by using NLTK.
-Next, we will introduce the concept of frequency normalization, where we
-normalize the frequency of token or word occurrences across multiple
-documents. Formally, this is known as Term-Frequency, inverse document
-frequency, or TD-IDF. Finally, we will explore how text classification
-can be extended to perform sentiment analysis.
+In this lesson, you will be introduced to techniques for classifying text documents, including to perform sentiment analysis. To improve machine classification of text documents, we will identify stop words and demonstrate how they can be removed from the analysis by using NLTK. Next, we will introduce the concept of frequency normalization, where we normalize the frequency of token or word occurrences across multiple documents. Formally, this is known as Term-Frequency, inverse document frequency, or TD-IDF. Finally, we will explore how text classification can be extended to perform sentiment analysis.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -28,8 +20,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Classification][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Text Classification][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -39,7 +30,9 @@ _Other Material_
 - Blog on computing TF-IDF, [Part 1][btf1] and [Part II][btf2]
 - Blog on Sentiment Analysis with NLTK, [Part 1][bsa1] and [Part II][bsa2]
 
-**Part of speech?**
+_Video_
+
+[Week Seven, Lesson 2 video][lv]
 
 ## Optional Readings ##
 
@@ -59,8 +52,8 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2tc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325302
-
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu/media/
 [tudh]: http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
 [wtm]: https://en.wikipedia.org/wiki/Text_mining
 
