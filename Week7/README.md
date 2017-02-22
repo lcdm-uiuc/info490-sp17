@@ -27,5 +27,5 @@ This week you will start applying your new machine learning skills to real world
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/W7ov/1_t5n2xzrz/63153661
 [wq]: https://learn.illinois.edu/mod/quiz/
