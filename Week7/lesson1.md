@@ -1,22 +1,9 @@
 # Week 7 Lesson 1 #
 ## Introduction to Text Analysis ##
 
-In this lesson, you will be introduced to basic concepts in text
-analysis, starting with the conversion of a sequence of characters that
-make up a text document into numerical data that can be computationally
-processed. By parsing textual data into tokens, we can create a count of
-word occurrences within a document, which when normalized by the total
-number of words int he document, can provide word frequencies. The
-collection of words in a document is more formally known as a _bag of
-words_, and is a standard technique for text analysis. For multiple
-documents, or subsections within a single document, we can turn this bag
-of words into a matrix, where each row is a new document (or text item,
-like a tweet, email, or web page) and each column is a count (or
-frequency) of a specific word. Given the number of words, a _document
-matrix_ can quickly become large, which introduces important computational
-issues that must be addressed in text analysis.
+In this lesson, you will be introduced to basic concepts in text analysis, starting with the conversion of a sequence of characters that make up a text document into numerical data that can be computationally processed. By parsing textual data into tokens, we can create a count of word occurrences within a document, which when normalized by the total number of words in the document, can provide word frequencies. The collection of words in a document is more formally known as a _bag of words_, and is a standard technique for text analysis. For multiple documents, or subsections within a single document, we can turn this bag of words into a matrix, where each row is a new document (or text item, like a tweet, email, or web page) and each column is a count (or frequency) of a specific word. Given the number of words, a _document matrix_ can quickly become large, which introduces important computational issues that must be addressed in text analysis.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -34,8 +21,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Text Analysis][l1nb]   IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -43,6 +29,10 @@ _Other Material_
 - Wikipedia article on [Bag of Words][wbow] model
 - Wikipedia article on [Document Term Matrix][wdtm]
 - Gentle Introduction (in Python 2) to text analysis with Python, [part 1][nctap1] and [part 2][nctap2]
+
+_Video_
+
+[Week Seven, Lesson 1 video][lv]
 
 ## Optional Readings ##
 
@@ -63,9 +53,9 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2ta.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325299
-
+[l1nb]: ../notebooks/intro2ta.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu/media/w7l1/1_ujk8h2tk/63153661
 [inlp]: https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/
 
 [wnlp]: https://en.wikipedia.org/wiki/Natural_language_processing
