@@ -65,7 +65,7 @@ When you have completed and worked through the above readings, please take the [
 [wt]: https://en.wikipedia.org/wiki/Twitter
 [wsm]: https://en.wikipedia.org/wiki/Social_media
 
-[twd]: http://tweepy.readthedocs.org/en/
+[twd]: http://tweepy.readthedocs.org
 [tod]: https://dev.twitter.com/overview/documentation
 
 [unt]: http://www.nltk.org/howto/twitter.html
