@@ -28,4 +28,4 @@ This week you will start applying your new machine learning skills to real world
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/W7ov/1_t5n2xzrz/63153661
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844346
