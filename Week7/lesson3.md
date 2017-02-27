@@ -54,8 +54,9 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 3 Assessment][la]
 
 [l3nb]: ../notebooks/intro2tm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu/media/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844430
+[lv]: https://mediaspace.illinois.edu/media/w7l3/1_xk8x895g/63153661
+
 [wst]: https://en.wikipedia.org/wiki/Stemming
 [wl]: https://en.wikipedia.org/wiki/Lemmatisation
 [wtc]: https://en.wikipedia.org/wiki/Document_clustering

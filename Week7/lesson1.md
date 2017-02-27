@@ -54,8 +54,8 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2ta.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu/media/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844424
+[lv]: https://mediaspace.illinois.edu/media/w7l1/1_ujk8h2tk/63153661
 [inlp]: https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/
 
 [wnlp]: https://en.wikipedia.org/wiki/Natural_language_processing

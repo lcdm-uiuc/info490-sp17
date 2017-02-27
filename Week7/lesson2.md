@@ -52,8 +52,9 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2tc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu/media/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844427
+[lv]: https://mediaspace.illinois.edu/media/W7l2/1_tcuwbb7n/63153661
+
 [tudh]: http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
 [wtm]: https://en.wikipedia.org/wiki/Text_mining
 
