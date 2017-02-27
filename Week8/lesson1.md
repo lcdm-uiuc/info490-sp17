@@ -55,7 +55,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2sme.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w8l1/0_t6pif6cq
 [we]: https://en.wikipedia.org/wiki/Email
 [wmbox]: https://en.wikipedia.org/wiki/Mbox
 [wsmtp]: https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
