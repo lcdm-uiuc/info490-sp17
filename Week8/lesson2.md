@@ -1,18 +1,9 @@
 # Week 8 Lesson 2 #
 ## Introduction to Social Media: Twitter ##
 
-In this lesson, you will be introduced to twitter data. Twitter is one
-of the most popular social media data types due to the wealth of data,
-the amount of metadata associate with each tweet, and the ease of
-obtaining twitter data. To access twitter data, we will use a Python
-library that wraps the official twitter application programming
-interface (or API). First you will learn how to authenticate by using
-OAUTH via the twitter API. Next, we will use the twitter API to find
-specific tweets, analyze the tweet metadata, and to extract a set of
-tweets. Finally, we will perform a sentiment analysis on twitter data to
-classify tweets as positive or negative.
+In this lesson, you will be introduced to twitter data. Twitter is one of the most popular social media data types due to the wealth of data, the amount of metadata associate with each tweet, and the ease of obtaining twitter data. To access twitter data, we will use a Python library that wraps the official twitter application programming interface (or API). First you will learn how to authenticate by using OAUTH via the twitter API. Next, we will use the twitter API to find specific tweets, analyze the tweet metadata, and to extract a set of tweets. Finally, we will perform a sentiment analysis on twitter data to classify tweets as positive or negative.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -29,8 +20,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Social Media: Twitter][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Social Media: Twitter][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -38,6 +28,10 @@ _Other Material_
 - Map of a [twitter status object][mtso]
 - [Tweepy][twd]: Python Twitter client documentation (Getting Started and Authentication Tutorial).
 - [Using nltk][unt] with twitter (note uses a different twitter client library)
+
+_Video_
+
+[Week Eight Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -59,9 +53,11 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2smt.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325314
+-----
 
+[l2nb]: ../notebooks/intro2smt.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 [wt]: https://en.wikipedia.org/wiki/Twitter
 [wsm]: https://en.wikipedia.org/wiki/Social_media
 

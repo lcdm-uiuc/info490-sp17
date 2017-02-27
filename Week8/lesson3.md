@@ -1,18 +1,9 @@
 # Week 8 Lesson 3 #
 ## Introduction to Social Media: Web ##
 
-In this lesson, you will be introduced to web-accessible data. While web
-data might be less popular than other forms of social media, the number
-and diversity of web accessible data sets make this form of social data
-among the most rich for text analysis. First we will analyze a web page
-to extract data. Second, we will analyze a website as a networked
-resource to construct a summary document of data spread across multiple
-pages. As a demonstration of these concepts, we use the University of
-Illinois Course explorer website. This project requires programmatically
-accessing web data, parsing web pages, and extracting information from
-structured documents.
+In this lesson, you will be introduced to web-accessible data. While web data might be less popular than other forms of social media, the number and diversity of web accessible data sets make this form of social data among the most rich for text analysis. First we will analyze a web page to extract data. Second, we will analyze a website as a networked resource to construct a summary document of data spread across multiple pages. As a demonstration of these concepts, we use the University of Illinois Course explorer website. This project requires programmatically accessing web data, parsing web pages, and extracting information from structured documents.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -29,14 +20,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Social Media: Web][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Social Media: Web][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [web scraping][wws]
 - Blog introducing web scraping with BeautifulSoup, [Part 1][bbs1] and [Part 2][bbs2]
 - Blog describing simple application of [web scraping][bdemo] 
+
+_Video_
+
+[Week Eight Lesson 3 Video][lv]
 
 ## Optional Readings ##
 
@@ -57,9 +51,11 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2smw.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325317
+-----
 
+[l3nb]: ../notebooks/intro2smw.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 [wws]: https://en.wikipedia.org/wiki/Web_scraping
 [sw]: http://scrapy.org
 

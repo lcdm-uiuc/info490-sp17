@@ -1,18 +1,10 @@
 # Week 8 Lesson 1 #
 ## Introduction to Social Media: Email ##
 
-In this lesson, you will be introduced to social media data, which are a
-popular source of data for analytics projects. In particular, this
-lesson focuses on email, which are a rich sort of data based on both
-overall content as well as the social connections they imply. First, we
-will review the basic components of an email message: header, body, and
-(optional) footer. Next, we will discus how to parse an email message to
-extract the body and possibly useful metadata. Finally, we will look at
-applying text analytics to emails, specifically to  classify emails as
-either spam or ham (i.e., bad or good messages).
+In this lesson, you will be introduced to social media data, which are a popular source of data for analytics projects. In particular, this lesson focuses on email, which are a rich sort of data based on both overall content as well as the social connections they imply. First, we will review the basic components of an email message: header, body, and (optional) footer. Next, we will discus how to parse an email message to extract the body and possibly useful metadata. Finally, we will look at applying text analytics to emails, specifically to  classify emails as either spam or ham (i.e., bad or good messages).
 
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -29,14 +21,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Social Media: Email][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Social Media: Email][l1nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [email][we].
 - Wikipedia article on [mbox][wmbox], file format for storing email messages.
 - Recent blog article on [classifying email][bce] text documents.
+
+_Video_
+
+[Week Eight Lesson 1 Video][lv]
 
 ## Optional Readings ##
 
@@ -56,9 +51,11 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2sme.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325311
+-----
 
+[l1nb]: ../notebooks/intro2sme.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 [we]: https://en.wikipedia.org/wiki/Email
 [wmbox]: https://en.wikipedia.org/wiki/Mbox
 [wsmtp]: https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
