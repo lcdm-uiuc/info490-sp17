@@ -57,7 +57,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2smt.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w8l2/0_rmjz1jup
 
 [wt]: https://en.wikipedia.org/wiki/Twitter
 [wsm]: https://en.wikipedia.org/wiki/Social_media
