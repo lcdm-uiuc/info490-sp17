@@ -28,5 +28,5 @@ This week we will introduce social media, which is a form of data that is constr
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/W8ov/0_on80j1ne
 [wq]: https://learn.illinois.edu/mod/quiz/
