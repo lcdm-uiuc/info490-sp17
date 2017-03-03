@@ -54,7 +54,7 @@ When you have completed and worked through the above readings, please take the [
 -----
 
 [l3nb]: ../notebooks/intro2smw.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844439
 [lv]: https://mediaspace.illinois.edu/media/w8l3/0_bv81v6y8
 [wws]: https://en.wikipedia.org/wiki/Web_scraping
 [sw]: http://scrapy.org

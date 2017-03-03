@@ -29,4 +29,4 @@ This week we will introduce social media, which is a form of data that is constr
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/W8ov/0_on80j1ne
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844349
