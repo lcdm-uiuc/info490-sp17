@@ -54,7 +54,7 @@ When you have completed and worked through the above readings, please take the [
 -----
 
 [l1nb]: ../notebooks/intro2sme.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844433
 [lv]: https://mediaspace.illinois.edu/media/w8l1/0_t6pif6cq
 [we]: https://en.wikipedia.org/wiki/Email
 [wmbox]: https://en.wikipedia.org/wiki/Mbox
