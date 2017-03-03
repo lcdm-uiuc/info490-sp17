@@ -56,7 +56,7 @@ When you have completed and worked through the above readings, please take the [
 -----
 
 [l2nb]: ../notebooks/intro2smt.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844436
 [lv]: https://mediaspace.illinois.edu/media/w8l2/0_rmjz1jup
 
 [wt]: https://en.wikipedia.org/wiki/Twitter
