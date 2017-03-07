@@ -66,6 +66,6 @@ When you have completed and worked through the above readings, please take the [
 [nltk3-7]: http://www.nltk.org/book/ch07.html
 
 [bma]: https://spacy.io/tutorials/mark-adverbs
-[dsp]: https://api.spacy.io/displacy/index.html
+[dsp]: https://demos.explosion.ai/displacy/
 [sp]: https://spacy.io
 [ptb]: http://www.cis.upenn.edu/~treebank/
