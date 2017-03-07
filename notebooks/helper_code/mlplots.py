@@ -16,10 +16,13 @@ def confusion(test, predict, names, bins=3, title='Confusion Matrix'):
     pd_pts = pd.DataFrame(pts.astype(int), index=names, columns=names )
     
     # Display heatmap and add decorations
-    sns.set(font_scale=1.5)
+    sns.set(font_scale=1.0)
     hm = sns.heatmap(pd_pts, annot=True, fmt="d")
     
     sns.set(font_scale=2.0)
-    hm.axes.set_title(title)
-    
+    hm.axes.set_title(title, fontsize=24)
+    hm.axes.set_xlabel('Predicted', fontsize=24)
+    hm.axes.set_ylabel('Actual', fontsize=24)
+    sns.set(font_scale=1.0)
+
     return None
