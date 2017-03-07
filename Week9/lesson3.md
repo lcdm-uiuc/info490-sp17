@@ -1,17 +1,9 @@
 # Week 9 Lesson 3 #
 ## Introduction to NLP: Semantic Analysis ##
 
-In this lesson, you will be introduced to the concept of semantic
-analysis, where we try to infer the meaning of text data. In part this
-will build on the concepts of part of speech tagging and named entity
-recognition presented in Lesson 1. Other concepts, however, are also
-important, including the relative locations of words, and colocations.
-To perform semantic analysius, we will develop the word vector space
-model that underlies to the _word2vec_ appraoch. We will learn to employ
-word2vec (and other related models) by using the _gensim_ Python
-library. 
- 
-###Objectives ###
+In this lesson, you will be introduced to the concept of semantic analysis, where we try to infer the meaning of text data. In part this will build on the concepts of part of speech tagging and named entity recognition presented in Lesson 1. Other concepts, however, are also important, including the relative locations of words, and colocations. To perform semantic analysius, we will develop the word vector space model that underlies to the _word2vec_ appraoch. We will learn to employ word2vec (and other related models) by using the _gensim_ Python library. 
+
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -27,13 +19,16 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to NLP: Semantic Analysis][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to NLP: Semantic Analysis][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [word2vec][ww2v]
 - Introduction to Word Vectors, [Part 1][ip1] and [Part 2][ip2], via Kaggle
+
+_Video_
+
+[Week Nine Lesson 3 Video][lv]
 
 ## Optional Readings ##
 
@@ -49,9 +44,9 @@ _Other Material_
 
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2nlp-sa.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325329
-
+[l3nb]: ../notebooks/intro2nlp-sa.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 [bwe]: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
 
 [ip1]: https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors

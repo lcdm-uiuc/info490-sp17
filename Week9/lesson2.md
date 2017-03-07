@@ -1,15 +1,9 @@
 # Week 9 Lesson 2 #
 ## Introduction to NLP: Topic Modeling ##
 
-In this lesson, you will be introduced to the concept of topic modeling.
-Topic modeling is a form of unsupervised learning where specific topics,
-or concepts are derived from documents. The dominant technique for
-performing topic modeling is Latent Dirichlet Allocation or LDA. We
-also will explore the application of Non-negative Matrix Factorization
-(NMF) to the construction of topic models. To apply these techniques to
-text data, we will use both the scikit learn and _gensim_ libraries.
+In this lesson, you will be introduced to the concept of topic modeling. Topic modeling is a form of unsupervised learning where specific topics, or concepts are derived from documents. The dominant technique for performing topic modeling is Latent Dirichlet Allocation or LDA. We also will explore the application of Non-negative Matrix Factorization (NMF) to the construction of topic models. To apply these techniques to text data, we will use both the scikit learn and _gensim_ libraries.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -26,13 +20,16 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to NLP: Topic Modeling][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to NLP: Topic Modeling][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [Topic Models][wtm] 
 - Introduction to topic modeling, [part 1][[itm] and [part 2][itm-2]
+
+_Video_
+
+[Week Nine Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -45,20 +42,17 @@ _Other Material_
 
 _Safari Online Books_
 
-- **Chapter 4: Topic Modeling** from _Building Machine Learning Systems
-with Python (2nd Ed.)_ by Willi Richert and Luis Pedro Coelho
+- **Chapter 4: Topic Modeling** from _Building Machine Learning Systems with Python (2nd Ed.)_ by Willi Richert and Luis Pedro Coelho
 
-- The section on _Decomposing the feature matrices using non-negative
-matrix factorization_ in **Chapter 4: Data Analysis-Deep Dive** from
-_Python Data Science Cookbook_ by Gopi Subramanian
+- The section on _Decomposing the feature matrices using non-negative matrix factorization_ in **Chapter 4: Data Analysis-Deep Dive** from _Python Data Science Cookbook_ by Gopi Subramanian
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2nlp-tm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325326
-
+[l2nb]: ../notebooks/intro2nlp-tm.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: lvhttps://mediaspace.illinois.edu
 [wlda]: https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 [wtm]: https://en.wikipedia.org/wiki/Topic_model
 [wnmf]: https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
