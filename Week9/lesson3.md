@@ -46,7 +46,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l3nb]: ../notebooks/intro2nlp-sa.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w9l3/1_e1uhms0k
 [bwe]: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
 
 [ip1]: https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors
