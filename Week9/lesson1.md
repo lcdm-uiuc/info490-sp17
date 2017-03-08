@@ -54,7 +54,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2nlp-bc.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w9l1/1_ntfthqe0
 [wner]: https://en.wikipedia.org/wiki/Named-entity_recognition
 [wpos]: https://en.wikipedia.org/wiki/Part-of-speech_tagging
 [wtb]: https://en.wikipedia.org/wiki/Treebank
