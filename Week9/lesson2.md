@@ -51,7 +51,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2nlp-tm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844445
 [lv]: https://mediaspace.illinois.edu/media/w9l2/1_7h8n77m9
 [wlda]: https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 [wtm]: https://en.wikipedia.org/wiki/Topic_model
