@@ -52,7 +52,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2nlp-tm.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w9l2/1_7h8n77m9
 [wlda]: https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 [wtm]: https://en.wikipedia.org/wiki/Topic_model
 [wnmf]: https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
