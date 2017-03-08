@@ -30,5 +30,5 @@ This week we will delve more deeply into natural language processing (NLP). Firs
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/w9ov/1_mh71pvdj
 [wq]: https://learn.illinois.edu/mod/quiz/
