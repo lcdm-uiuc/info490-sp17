@@ -67,5 +67,5 @@ When you have completed and worked through the above readings, please take the [
 
 [bma]: https://spacy.io/tutorials/mark-adverbs
 [dsp]: https://demos.explosion.ai/displacy/
-[sp]: https://spacy.io
-[ptb]: http://www.cis.upenn.edu/~treebank/
+[sp]: https://web.archive.org/web/20151103165613/http://spacy.io/tutorials/mark-adverbs/
+[ptb]: https://web.archive.org/web/20160829023945/http://www.cis.upenn.edu/~treebank
