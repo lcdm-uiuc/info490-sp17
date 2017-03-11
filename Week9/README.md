@@ -31,4 +31,4 @@ This week we will delve more deeply into natural language processing (NLP). Firs
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/w9ov/1_mh71pvdj
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844352
