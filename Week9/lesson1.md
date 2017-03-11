@@ -53,7 +53,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2nlp-bc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844442
 [lv]: https://mediaspace.illinois.edu/media/w9l1/1_ntfthqe0
 [wner]: https://en.wikipedia.org/wiki/Named-entity_recognition
 [wpos]: https://en.wikipedia.org/wiki/Part-of-speech_tagging
@@ -67,5 +67,5 @@ When you have completed and worked through the above readings, please take the [
 
 [bma]: https://spacy.io/tutorials/mark-adverbs
 [dsp]: https://demos.explosion.ai/displacy/
-[sp]: https://spacy.io
-[ptb]: http://www.cis.upenn.edu/~treebank/
+[sp]: https://web.archive.org/web/20151103165613/http://spacy.io/tutorials/mark-adverbs/
+[ptb]: https://web.archive.org/web/20160829023945/http://www.cis.upenn.edu/~treebank
