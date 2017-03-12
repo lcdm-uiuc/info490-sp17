@@ -50,7 +50,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 3 Assessment][la]
 
 [l3nb]: ../notebooks/intro2na-sm.ipynb
-[lv ]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [wsna]: https://en.wikipedia.org/wiki/Social_network_analysis
