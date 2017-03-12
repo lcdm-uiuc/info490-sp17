@@ -1,15 +1,9 @@
 # Week 10 Lesson 2 #
 ## Introduction to Network Analysis: Graph Analysis ##
 
-In this lesson, you will learn about special types of graphs, including
-cycles, complete graphs, and complete bipartite graphs. Next, you will
-learn about traversing graphs, which can be done via a depth-first
-search, a breadth-first search, or a general exploration. Finally, you
-will learn about algorithms for analyzing the data represented by a graph
-to compute distance, diameter, and density by using the NetworkX Python
-library.
+In this lesson, you will learn about special types of graphs, including cycles, complete graphs, and complete bipartite graphs. Next, you will learn about traversing graphs, which can be done via a depth-first search, a breadth-first search, or a general exploration. Finally, you will learn about algorithms for analyzing the data represented by a graph to compute distance, diameter, and density by using the NetworkX Python library.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -25,14 +19,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Network Analysis: Graph Analysis][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Network Analysis: Graph Analysis][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [Graph Types][wgt] 
 - Wikipedia article on [Graph Traversal][wgtr]
 - Python [Graph Analysis][pga], starting with the _Paths in Graphs_ section
+
+_Video_
+
+[Week 10 Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -49,8 +46,9 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2na-ga.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325338
+[l2nb]: ../notebooks/intro2na-ga.ipynb
+[lv]: https://mediaspace.illinois.edu
+[la]: https://learn.illinois.edu/mod/quiz/
 
 [wgt]: https://en.wikipedia.org/wiki/Gallery_of_named_graphs
 [wgtr]: https://en.wikipedia.org/wiki/Graph_traversal

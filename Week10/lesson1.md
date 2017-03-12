@@ -2,16 +2,9 @@
 
 ## Introduction to Network Analysis: Graph Concepts ##
 
-In this lesson, you will learn basic graph concepts in network analysis.
-Specifically, we will start by introducing the concept of a node, and how
-nodes can be connected in a graph by edges. Next, we will contrast
-undirected and directed graphs, before discussing how graphs, nodes, and
-edges can all posses attributes. We will also explore the underlying
-graph matrix representations including the adjacency and incidence
-matrices. Finally, we will learn how to perform basic graph
-visualizations in Python.
+In this lesson, you will learn basic graph concepts in network analysis. Specifically, we will start by introducing the concept of a node, and how nodes can be connected in a graph by edges. Next, we will contrast undirected and directed graphs, before discussing how graphs, nodes, and edges can all posses attributes. We will also explore the underlying graph matrix representations including the adjacency and incidence matrices. Finally, we will learn how to perform basic graph visualizations in Python.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -28,8 +21,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Network Analysis: Graph Concepts][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Network Analysis: Graph Concepts][l1nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -37,6 +29,10 @@ _Other Material_
 - Wikipedia articles on [Adjacency Matrix][wam] and [Incidence Matrix][wim]
 - Visualize sample graphs: [Force-directed][vfd], [Edge-Binding][veb], and [Uber Rides][vur]
 - Visualize [Adjacency Matrix][vam], be sure to change the order of the matrix elements.
+
+_Video_
+
+[Week 10 Lesson 1 Video][lv]
 
 ## Optional Readings ##
 
@@ -52,9 +48,9 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2na-gc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325335
-
+[l1nb]: ../notebooks/intro2na-gc.ipynb
+[lv]: https://mediaspace.illinois.edu
+[la]: https://learn.illinois.edu/mod/quiz/
 [wgdt]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 [wgt]: https://en.wikipedia.org/wiki/Graph_theory
 [wam]: https://en.wikipedia.org/wiki/Adjacency_matrix
