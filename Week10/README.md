@@ -15,7 +15,7 @@ This week we introduce basic network analysis by using the Python NetworkX libra
 
 ### Activities and Assignments ###
 
-| Activities and Assignments               | Time Estimate | Deadline*                |                  Points |
+| Activities and Assignments               | Time Estimate | * Deadline*                |                  Points |
 | :--------------------------------------- | ------------- | ------------------------ | ----------------------: |
 | ** [Week 10 Introduction Video][wkv] **     | 10 Minutes    | Tuesday                  |                     N/A |
 | ** [Week 10 Lesson 1: Introduction to Network Analysis: Graph Concepts](lesson1.md) ** | 2 Hours       | Thursday                 |                      20 |
