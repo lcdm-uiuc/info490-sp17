@@ -47,7 +47,8 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2na-ga.ipynb
-[lv]: https://mediaspace.illinois.edu
+
+[lv]: https://mediaspace.illinois.edu/media/W10l2/1_wgwkkjgh
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [wgt]: https://en.wikipedia.org/wiki/Gallery_of_named_graphs
