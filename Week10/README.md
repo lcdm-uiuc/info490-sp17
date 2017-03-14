@@ -28,7 +28,5 @@ This week we introduce basic network analysis by using the Python NetworkX libra
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 -----
-
 [wkv]: https://mediaspace.illinois.edu/media/W10ov/1_wgxqu3w4
-
 [wkq]: https://learn.illinois.edu/mod/quiz/
