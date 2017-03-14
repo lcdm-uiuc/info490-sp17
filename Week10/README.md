@@ -17,17 +17,17 @@ This week we introduce basic network analysis by using the Python NetworkX libra
 
 | Activities and Assignments               | Time Estimate | Deadline *               |                  Points |
 | :--------------------------------------- | ------------- | ------------------------ | ----------------------: |
-| [Week 10 Introduction Video][wv]  | 10 Minutes    | Tuesday                  |                     N/A |
+| **[Week 10 Introduction Video][wv]**         | 10 Minutes    | Tuesday                  |                     N/A |
 | ** [Week 10 Lesson 1: Introduction to Network Analysis: Graph Concepts](lesson1.md) ** | 2 Hours       | Thursday                 |                      20 |
 | ** [Week 10 Lesson 2: Introduction to Network Analysis: Graph Analysis](lesson2.md) ** | 2 Hours       | Thursday                 |                      20 |
 | ** [Week 10 Lesson 3: Introduction to Network Analysis: Social Media](lesson3.md) ** | 2 Hours       | Thursday                 |                      20 |
-| ** [Week 10 Quiz][wkq] **                | 45 Minutes    | Friday                   |                      70 |
+| ** [Week 10 Quiz][wq] **                | 45 Minutes    | Friday                   |                      70 |
 | **Week 10 Assignment Submission**        | 4 Hours       | *The following* Monday   | 125 Instructor, 10 Peer |
 | **Week 10 Completion of Peer Review**    | 2 Hours       | *The following* Saturday |                      15 |
 
-* **Please note that unless otherwise noted, the due time is 6pm Central time!**
+***Please note that unless otherwise noted, the due time is 6pm Central time!**
 
 -----
 
 [wv]: https://mediaspace.illinois.edu/media/W10ov/1_wgxqu3w4
-[wkq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/
