@@ -49,7 +49,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2na-gc.ipynb
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w10l1/1_ujfyacim
 [la]: https://learn.illinois.edu/mod/quiz/
 [wgdt]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 [wgt]: https://en.wikipedia.org/wiki/Graph_theory
