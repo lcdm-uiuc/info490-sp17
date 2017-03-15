@@ -49,7 +49,7 @@ When you have completed and worked through the above readings, please take the [
 [l2nb]: ../notebooks/intro2na-ga.ipynb
 
 [lv]: https://mediaspace.illinois.edu/media/W10l2/1_wgwkkjgh
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844454
 
 [wgt]: https://en.wikipedia.org/wiki/Gallery_of_named_graphs
 [wgtr]: https://en.wikipedia.org/wiki/Graph_traversal
