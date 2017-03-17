@@ -52,7 +52,7 @@ When you have completed and worked through the above readings, please take the [
 [l3nb]: ../notebooks/intro2na-sm.ipynb
 
 [lv]: https://mediaspace.illinois.edu/media/w10l3/1_cdfsa8g6
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844457
 
 [wsna]: https://en.wikipedia.org/wiki/Social_network_analysis
 [wfp]: https://en.wikipedia.org/wiki/Friendship_paradox

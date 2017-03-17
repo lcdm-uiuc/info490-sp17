@@ -50,7 +50,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2na-gc.ipynb
 [lv]: https://mediaspace.illinois.edu/media/w10l1/1_ujfyacim
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844451
 [wgdt]: https://en.wikipedia.org/wiki/Graph_(abstract_data_type)
 [wgt]: https://en.wikipedia.org/wiki/Graph_theory
 [wam]: https://en.wikipedia.org/wiki/Adjacency_matrix
