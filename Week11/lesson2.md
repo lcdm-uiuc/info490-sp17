@@ -53,7 +53,7 @@ When you have completed and worked through the above readings, please take the [
 
 [bbabt]: http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
 
-[ihm]: http://pymc-devs.github.io/pymc3/GLM-hierarchical/
+[ihm]: https://pymc-devs.github.io/pymc3/notebooks/GLM-hierarchical.html
 
 [bpabt]: http://chris-said.io/2016/02/28/four-pitfalls-of-hill-climbing/
 [bmh2]: http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter2_MorePyMC/Chapter2.ipynb
