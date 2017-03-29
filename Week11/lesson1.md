@@ -53,9 +53,9 @@ When you have completed and worked through the above readings, please take the [
 [aibpymc3]: http://blog.applied.ai/bayesian-inference-with-pymc3-part-1/
 
 [tmcmc]: http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
-[bmh1]: http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
+[bmh1]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb
 
-[ipymc3]: http://pymc-devs.github.io/pymc3/getting_started/
+[ipymc3]: https://pymc-devs.github.io/pymc3/notebooks/getting_started.html
 
 [bmps0]: http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb
 [bmps1]: http://nbviewer.jupyter.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb

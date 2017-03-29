@@ -51,13 +51,16 @@ When you have completed and worked through the above readings, please take the [
 
 [wglm]: https://en.wikipedia.org/wiki/Generalized_linear_model
 
-[pymc3rr]: http://pymc-devs.github.io/pymc3/GLM-robust/
-[pymc3rro]: http://pymc-devs.github.io/pymc3/GLM-robust-with-outlier-detection/
+[pymc3rr]: https://pymc-devs.github.io/pymc3/notebooks/GLM-robust.html
+[pymc3rro]: https://pymc-devs.github.io/pymc3/notebooks/GLM-robust-with-outlier-detection.html
 
-[bmh3]: http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter3_MCMC/Chapter3.ipynb
-[bmh4]: http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter4_TheGreatestTheoremNeverTold/Chapter4.ipynb
-[bmh5]: http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter5_LossFunctions/Chapter5.ipynb
-[bmh6]: http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter6_Priorities/Chapter6.ipynb
+[bmh3]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter3_MCMC/Ch3_IntroMCMC_PyMC3.ipynb
+
+[bmh4]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter4_TheGreatestTheoremNeverTold/Ch4_LawOfLargeNumbers_PyMC3.ipynb
+
+[bmh5]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter5_LossFunctions/Ch5_LossFunctions_PyMC3.ipynb
+
+[bmh6]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter6_Priorities/Ch6_Priors_PyMC3.ipynb
 
 [bmps4]: http://nbviewer.jupyter.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%204.%20Bayesian%20regression.ipynb
 

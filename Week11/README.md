@@ -1,4 +1,4 @@
-#Week 11 Overview#
+# Week 11 Overview #
 
 ## Probabilistic Programming ##
 
@@ -6,7 +6,7 @@ This week we introduce Bayesian Model fitting. In the Bayesian approach, we comp
 
 ### Objectives ###
 
-#####By the end of this lesson, you should be able to:######
+##### By the end of this lesson, you should be able to: ######
 
 - Understand the basic concepts of Bayesian Mode regression
 - Understand the fundamentals of hierarchical model fitting.
