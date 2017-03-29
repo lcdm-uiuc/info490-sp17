@@ -1,16 +1,9 @@
 # Week 12 Lesson 3 #
 ## Introduction to Pig ##
 
-In this lesson, you will learn about Hadoop Pig. One problem with the
-Hadoop MapReduce paradigm is the challenge of creating map and reduce
-programs. To simplify this task, a new language, called Pig Latin, was
-created to simplify the creation of Map Reduce tasks. Pig is an ETL
-(extract, transform, load) language, that is similar in many respect to
-SQL (or Pandas). As a result, it can be simple to load multiple data
-sets, process them, group them, and join the results, before saving them
-to a new file.
+In this lesson, you will learn about Hadoop Pig. One problem with the Hadoop MapReduce paradigm is the challenge of creating map and reduce programs. To simplify this task, a new language, called Pig Latin, was created to simplify the creation of Map Reduce tasks. Pig is an ETL (extract, transform, load) language, that is similar in many respect to SQL (or Pandas). As a result, it can be simple to load multiple data sets, process them, group them, and join the results, before saving them to a new file.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -26,13 +19,16 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Pig][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Pig][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [Pig][wpig]
 - **Chapter 1: [Introduction to Pig][pb1]**, from __Programming Pig__, by Alan Gates
+
+_Video_
+
+[Week 12 Lesson 3 Video][lv]
 
 ## Optional Readings ##
 
@@ -45,9 +41,10 @@ _Other Material_
 
 When you have completed and worked through the above readings, please take the [Week 12 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2pig.ipynb
+[l3nb]: ../notebooks/intro2pig.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325365
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [wpig]: https://en.wikipedia.org/wiki/Pig_(programming_tool)
 

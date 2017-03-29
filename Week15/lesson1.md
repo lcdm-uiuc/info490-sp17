@@ -2,22 +2,14 @@
 
 ## Introduction to Deep Learning ##
 
-In this lesson, you will about neural networks and their application in
-deep learning. First, we review the basic concepts behind neural
-networks and how they can easily be constructed in Python. Next, we
-introduce deep learning by building on the basic concepts of neural
-networks and demonstrate how they can be applied in different contexts,
-such as image processing and analysis and natural language processing.
-Finally, in the course notebook, you will see how to use the Keras
-library to apply deep learning by using Python.
+In this lesson, you will about neural networks and their application in deep learning. First, we review the basic concepts behind neural networks and how they can easily be constructed in Python. Next, we introduce deep learning by building on the basic concepts of neural networks and demonstrate how they can be applied in different contexts, such as image processing and analysis and natural language processing. Finally, in the course notebook, you will see how to use the Keras library to apply deep learning by using Python.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
 - Understand the basic concepts of an artificial neural network
-- Be familiar with deep learning, and the different types of neural
-networks commonly used in deep learning.
+- Be familiar with deep learning, and the different types of neural networks commonly used in deep learning.
 - Be able to use Keras to perform simple deep learning
 
 ### Time Estimate ###
@@ -28,8 +20,7 @@ Approximately 3 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Deep Learning][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Deep Learning][l1nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -37,6 +28,10 @@ _Other Material_
 - Introduction to [Deep Learning][idl]
 - [Deep Learning][ndl] in a Nutshell
 - [Deep Learning][dlb] in the Browser!
+
+_Video_
+
+[Week 15 Lesson 1 Video][lv]
 
 ## Optional Readings ##
 
@@ -56,8 +51,9 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 15 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2dl.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325395
+[l1nb]: ../notebooks/intro2dl.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [wdl]: https://en.wikipedia.org/wiki/Deep_learning
 [wnn]: https://en.wikipedia.org/wiki/Artificial_neural_network

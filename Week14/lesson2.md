@@ -1,16 +1,9 @@
 # Week 14 Lesson 2 #
 ## Introduction to Spark DataFrames ##
 
-In this lesson, you will learn about Spark DataFrames, which are an
-alternative to the Spark RDDs. With the growth in popularity of higher
-level languages such as Python and R for data analytic tasks, a consensus
-emerged that RDDs were less than ideal for performing Spark data
-processing tasks. As a result, DataFrames (similar to Pandas DataFrames)
-were introduced into Spark. In this Notebook, we introduce the Spark
-DataFrame and demonstrate how to use this new data structure for big
-data processing within a Spark environment.
+In this lesson, you will learn about Spark DataFrames, which are an alternative to the Spark RDDs. With the growth in popularity of higher level languages such as Python and R for data analytic tasks, a consensus emerged that RDDs were less than ideal for performing Spark data processing tasks. As a result, DataFrames (similar to Pandas DataFrames) were introduced into Spark. In this Notebook, we introduce the Spark DataFrame and demonstrate how to use this new data structure for big data processing within a Spark environment.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -26,13 +19,16 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Spark: DataFrames, SQL, and Basic Analysis ][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Spark: DataFrames, SQL, and Basic Analysis ][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Tutorial Introduction to [Spark SQL][tiss]
 - [Spark SQL Programming Guide][sspg], through _Data Sources_ Section
+
+_Video_
+
+[Week 14 Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -43,15 +39,15 @@ _Other Material_
 _Safari Online Books_
 
 - **Chapter 4: Apache Spark SQL** from _Mastering Apache Spark_, by Mike Frampton
-- **Chapter 9: Spark SQL** from _Learning Spark_, by Holden Karau, Andy Konwinski, 
-Patrick Wendell, Matei Zaharia.
+- **Chapter 9: Spark SQL** from _Learning Spark_, by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia.
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/sparkdf.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325386
+[l2nb]: ../notebooks/sparkdf.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [oass]: http://www.infoq.com/articles/apache-spark-sql
 [sspg]: https://spark.apache.org/docs/latest/sql-programming-guide.html

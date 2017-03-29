@@ -2,17 +2,9 @@
 
 ## Introduction to Spark ##
 
-In this lesson, you will about Spark, a popular new approach to
-processing big data. Spark provides an alternative to the Map-Reduce
-approach for processing tasks on Hadoop. Spark was built around a
-concept called Resilient Distributed Datasets (or RDDs). In this lesson,
-we introduce Spark, demonstrate how to perform basic operations within
-Spark, before introducing RDDs and how to perform basic data processing.
-All Spark processing is done locally this week, but the basic concepts
-all extend to larger Hadoop clusters, and the processing is done by
-using Python via pySpark.
+In this lesson, you will about Spark, a popular new approach to processing big data. Spark provides an alternative to the Map-Reduce approach for processing tasks on Hadoop. Spark was built around a concept called Resilient Distributed Datasets (or RDDs). In this lesson, we introduce Spark, demonstrate how to perform basic operations within Spark, before introducing RDDs and how to perform basic data processing. All Spark processing is done locally this week, but the basic concepts all extend to larger Hadoop clusters, and the processing is done by using Python via pySpark.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -28,8 +20,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Spark][l1nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Spark][l1nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -37,6 +28,10 @@ _Other Material_
 - Tutorial Introduction to [Spark][tis], and [RDDs][tirdd]
 - Spark [Homepage][sh]
 - Spark [Quick Start Guide][qsg], be sure to select Python for the examples.
+
+_Video_
+
+[Week 14 Lesson 1 Video][lv]
 
 ## Optional Readings ##
 
@@ -48,15 +43,15 @@ _Other Material_
 _Safari Online Books_
 
 - **Chapters 1: Apache Spark** from _Mastering Apache Spark_, by Mike Frampton
-- **Chapters 1-6:** from _Learning Spark_, by Holden Karau, Andy Konwinski, 
-Patrick Wendell, Matei Zaharia.
+- **Chapters 1-6:** from _Learning Spark_, by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia.
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2spark.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325383
+[l1nb]: ../notebooks/intro2spark.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [ws]: https://en.wikipedia.org/wiki/Apache_Spark
 

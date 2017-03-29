@@ -1,23 +1,15 @@
 # Week 13 Lesson 3 #
 ## Introduction to Graph Databases ##
 
-In this lesson, you will learn about graph databases, which provide a
-mechanism for not only persisting graph data structures but also a
-powerful search mechanisms to quickly find sub-graphs. One of the most
-popular graph database is Neo4J, which we will use to create and persist
-graph data structures. This will involve the Python Neo4J database
-driver, that allows us to directly operate on graphs in the Neo4J
-database via functions calls or to use the Cypher query language to
-create, update, delete, or find subgraphs.
+In this lesson, you will learn about graph databases, which provide a mechanism for not only persisting graph data structures but also a powerful search mechanisms to quickly find sub-graphs. One of the most popular graph database is Neo4J, which we will use to create and persist graph data structures. This will involve the Python Neo4J database driver, that allows us to directly operate on graphs in the Neo4J database via functions calls or to use the Cypher query language to create, update, delete, or find subgraphs.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
 - Understand the basic concepts of a graph database
 - Be familiar with the Neo4J database and the Cypher query language
-- Be able to use the py2neo Neo4J database driver to communicate with a
-Neo4J database from a Python program.
+- Be able to use the py2neo Neo4J database driver to communicate with a Neo4J database from a Python program.
 
 
 ### Time Estimate ###
@@ -28,14 +20,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Neo4J][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Neo4J][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [Graph Database][wgdb]
 - Introduction to [Neo4J][in], Sections: _Home_ through _Graph Theory Basics_
 - Getting Started with [Python and Neo4J][sin]
+
+_Video_
+
+[Week 13 Lesson 3 Video][lv]
 
 ## Optional Readings ##
 
@@ -56,9 +51,10 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 13 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2neo4j.ipynb
+[l3nb]: ../notebooks/intro2neo4j.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325377
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [wn]: https://en.wikipedia.org/wiki/Neo4j
 [wgdb]: https://en.wikipedia.org/wiki/Graph_database

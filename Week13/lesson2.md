@@ -1,24 +1,15 @@
 # Week 13 Lesson 2 #
 ## Introduction to Column-Oriented Databases ##
 
-In this lesson, you will learn about column-oriented databases like
-Cassandra. A column-oriented database is optimized to provide record data
-in column-first format. This is important for large datasets, especially
-when only a few columns may be required for a particular query.
-Columns-ordered data enables specific columns ti be found quickly. To
-connect to a Cassandra instance, we will use the Cassandra Python
-database driver. This will allow us to execute CQL (Cassandra Query
-Language) queries against the Cassandra instance in order to insert,
-update, select, or delete records.
+In this lesson, you will learn about column-oriented databases like Cassandra. A column-oriented database is optimized to provide record data in column-first format. This is important for large datasets, especially when only a few columns may be required for a particular query. Columns-ordered data enables specific columns ti be found quickly. To connect to a Cassandra instance, we will use the Cassandra Python database driver. This will allow us to execute CQL (Cassandra Query Language) queries against the Cassandra instance in order to insert, update, select, or delete records.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
 - Understand the basic concepts of a column-oriented database
 - Be familiar with CQL
-- Be able to use the Cassandra python database driver to insert, modify,
-select, or delete data from a Cassandra database.
+- Be able to use the Cassandra python database driver to insert, modify, select, or delete data from a Cassandra database.
 
 ### Time Estimate ###
 
@@ -28,14 +19,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Cassandra][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Cassandra][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Wikipedia article on [Column-Oriented Database][wcdb]
 - Introduction to [Cassandra][ic]
 - Getting Started with [Python and Cassandra][gsc]
+
+_Video_
+
+[Week 13 Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -54,8 +48,9 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 13 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2cassandra.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325374
+[l2nb]: ../notebooks/intro2cassandra.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]: https://mediaspace.illinois.edu
 
 [tco]: http://www.planetcassandra.org/try-cassandra/
 [ic]: https://academy.datastax.com/resources/brief-introduction-apache-cassandra
