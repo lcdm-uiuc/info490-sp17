@@ -1,15 +1,9 @@
 # Week 11 Lesson 2 #
 ## Introduction to Hierarchical Modeling ##
 
-In this lesson, you will learn about hierarchical modeling, in which a
-Bayesian model is applied to an entire data set and individual data
-subsets at the same time. This process, which is known as pooling,
-enables the entire data to guide the model fitting for data subsets.
-Ideally this improves the model fits to the individual data subsets.
-Hierarchical modeling is important in many areas, including Bayesian A/B
-testing.
+In this lesson, you will learn about hierarchical modeling, in which a Bayesian model is applied to an entire data set and individual data subsets at the same time. This process, which is known as pooling, enables the entire data to guide the model fitting for data subsets. Ideally this improves the model fits to the individual data subsets. Hierarchical modeling is important in many areas, including Bayesian A/B testing.
 
-###Objectives ###
+### Objectives ###
 
 By the end of this lesson, you will be able to:
 
@@ -25,14 +19,17 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Hierarchical Modeling][l2nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Hierarchical Modeling][l2nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
 - Tutorial on Bayesian Modeling in Python, [Section 3][bmps3]
 - Blog article on [Bayesian A/B/ Testing][bbabt] (Note this was written for pymc2)
 - Introduction to [Hierarchical Modeling with PyMC3][ihm]
+
+_Video_
+
+[Week 11 Lesson 2 Video][lv]
 
 ## Optional Readings ##
 
@@ -44,8 +41,9 @@ _Other Material_
 
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2pp-hm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325350
+[l2nb]: ../notebooks/intro2pp-hm.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]:  https://mediaspace.illinois.edu/
 
 [whm]: https://en.wikipedia.org/wiki/Multilevel_model
 

@@ -1,14 +1,7 @@
 # Week 11 Lesson 3 #
 ## Introduction to General Linear Models ##
 
-In this lesson, you will learn about general linear models. A general
-linear model is a flexible approach to computing model fits to the
-observed data where the model errors can be non-Gaussian. As was the
-case with linear regression, the model terms can be non-linear, however,
-they can't include combinations of different terms. For example, a
-quadratic term is allowed, but we can't have x1 * x2. We will use the
-pymc3 library to quickly and easily compute general linear models within
-a Bayesian framework.
+In this lesson, you will learn about general linear models. A general linear model is a flexible approach to computing model fits to the observed data where the model errors can be non-Gaussian. As was the case with linear regression, the model terms can be non-linear, however, they can't include combinations of different terms. For example, a quadratic term is allowed, but we can't have `x1 * x2`. We will use the pymc3 library to quickly and easily compute general linear models within a Bayesian framework.
 
 ###Objectives ###
 
@@ -26,8 +19,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to General Linear Models][l3nb]
-IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to General Linear Models][l3nb] IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
@@ -35,6 +27,10 @@ _Other Material_
 - PyMC3 [Robust Regression][pymc3rr] Example
 - PyMC3 [Robust Regression with Outliers][pymc3rro] Example
 - Wikipedia article on [General Linear Models][wglm]
+
+_Video_
+
+[Week 11 Lesson 3 Video][lv]
 
 ## Optional Readings ##
 
@@ -48,9 +44,10 @@ _Other Material_
 
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2pp-glm.ipynb
+[l3nb]: ../notebooks/intro2pp-glm.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325353
+[la]: https://learn.illinois.edu/mod/quiz/
+[lv]:  https://mediaspace.illinois.edu/
 
 [wglm]: https://en.wikipedia.org/wiki/Generalized_linear_model
 
