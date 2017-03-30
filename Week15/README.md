@@ -1,4 +1,4 @@
-#Week 15 Overview#
+# Week 15 Overview #
 
 ## Introduction to Deep Learning ##
 
@@ -6,7 +6,7 @@ This week we introduce deep learning. Deep learning has become an incredibly pop
 
 ### Objectives ###
 
-#####By the end of this lesson, you should be able to:######
+##### By the end of this lesson, you should be able to: ######
 
 - Understand the basic concepts of a neural network
 - Understand the basic tenets of deep learning 
