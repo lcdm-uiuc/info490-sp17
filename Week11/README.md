@@ -29,5 +29,5 @@ This week we introduce Bayesian Model fitting. In the Bayesian approach, we comp
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/w11ov/1_29586ifr
 [wq]: https://learn.illinois.edu/mod/quiz/
