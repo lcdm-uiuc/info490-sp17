@@ -47,7 +47,7 @@ When you have completed and worked through the above readings, please take the [
 [l3nb]: ../notebooks/intro2pp-glm.ipynb
 
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]:  https://mediaspace.illinois.edu/
+[lv]: https://mediaspace.illinois.edu/media/W11l3/1_1yy9vxof
 
 [wglm]: https://en.wikipedia.org/wiki/Generalized_linear_model
 
