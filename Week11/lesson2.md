@@ -43,7 +43,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2pp-hm.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]:  https://mediaspace.illinois.edu/
+[lv]: https://mediaspace.illinois.edu/media/W11l2/1_45cre16s
 
 [whm]: https://en.wikipedia.org/wiki/Multilevel_model
 
