@@ -30,4 +30,4 @@ This week we introduce Bayesian Model fitting. In the Bayesian approach, we comp
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/w11ov/1_29586ifr
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844358

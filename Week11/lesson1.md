@@ -45,7 +45,7 @@ _Video_
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2pp-bm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844460
 [lv]: https://mediaspace.illinois.edu/media/w11l1/1_ekiiphv4
 
 [wppl]: https://en.wikipedia.org/wiki/Probabilistic_programming_language

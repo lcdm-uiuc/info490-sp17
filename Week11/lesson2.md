@@ -42,7 +42,7 @@ _Video_
 When you have completed and worked through the above readings, please take the [Week 11 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/intro2pp-hm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844463
 [lv]: https://mediaspace.illinois.edu/media/W11l2/1_45cre16s
 
 [whm]: https://en.wikipedia.org/wiki/Multilevel_model
