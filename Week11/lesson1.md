@@ -46,7 +46,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2pp-bm.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]:  https://mediaspace.illinois.edu/
+[lv]: https://mediaspace.illinois.edu/media/w11l1/1_ekiiphv4
 
 [wppl]: https://en.wikipedia.org/wiki/Probabilistic_programming_language
 
