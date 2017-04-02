@@ -23,7 +23,7 @@ _Course Notebook_
 
 _Other Material_
 
-- HortonWorks tutorial on Yarn, [Introduction][tyi], [Part 1][typ1], and [Part 2][typ2]
+- HortonWorks tutorial on Yarn, [Introduction][ty1], [Part 1][typ1], and [Part 2][typ2]
 - Basic Tutorial on the Map/Reduce, [Part 1][btmr1] and [Part II][btmr2]
 
 _Video_
