@@ -29,5 +29,5 @@ This week we introduce Hadoop, perhaps the dominant method of big data processin
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/W12ov/1_bkrli4sy
 [wq]: https://learn.illinois.edu/mod/quiz/
