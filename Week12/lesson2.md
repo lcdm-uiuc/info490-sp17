@@ -42,7 +42,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2mr.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/W12l2/1_q782349f
 
 [tphs]: http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
 
