@@ -44,7 +44,7 @@ When you have completed and worked through the above readings, please take the [
 [l3nb]: ../notebooks/intro2pig.ipynb
 
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/W12l3/1_2rt8533n
 
 [wpig]: https://en.wikipedia.org/wiki/Pig_(programming_tool)
 
