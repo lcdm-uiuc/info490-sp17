@@ -48,7 +48,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2hadoop.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/W12l1/1_ji4zjhw1
 
 [th]: http://www.tutorialspoint.com/hadoop/index.htm
 
