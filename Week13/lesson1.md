@@ -25,7 +25,7 @@ _Other Material_
 
 - Learn about [NoSQL Databases][inosql]
 - Wikipedia article on [Document-Oriented Databases][wddb]
-- Learn about [Mongo DB][[imongodb]
+- Learn about [Mongo DB][imongodb]
 - Tutorial on using [Python with MongoDB][tpmdb]
 
 _Video_
