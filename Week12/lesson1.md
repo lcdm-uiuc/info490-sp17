@@ -47,7 +47,7 @@ _Video_
 When you have completed and worked through the above readings, please take the [Week 12 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2hadoop.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844469
 [lv]: https://mediaspace.illinois.edu/media/W12l1/1_ji4zjhw1
 
 [th]: http://www.tutorialspoint.com/hadoop/index.htm

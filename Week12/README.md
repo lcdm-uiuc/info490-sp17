@@ -30,4 +30,4 @@ This week we introduce Hadoop, perhaps the dominant method of big data processin
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/W12ov/1_bkrli4sy
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844361
