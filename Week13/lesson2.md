@@ -35,7 +35,6 @@ _Video_
 
 - Overview of [Cassandra][oc]
 - Wikipedia article on [Cassandra][wc]
-- Try [Cassandra online][tco]
 - (Older) Tutorial on using [Cassandra from IPython][c4ip]
 
 _Safari Online Books_
@@ -52,7 +51,6 @@ When you have completed and worked through the above readings, please take the [
 [la]: https://learn.illinois.edu/mod/quiz/
 [lv]: https://mediaspace.illinois.edu
 
-[tco]: http://www.planetcassandra.org/try-cassandra/
 [ic]: https://academy.datastax.com/resources/brief-introduction-apache-cassandra
 [oc]: https://www.pythian.com/wp-content/uploads/2015/07/Pythian-Introduction-to-Cassandra-eBook-2015.pdf
 [wc]: https://en.wikipedia.org/wiki/Apache_Cassandra
