@@ -54,7 +54,7 @@ When you have completed and worked through the above readings, please take the [
 [l3nb]: ../notebooks/intro2neo4j.ipynb
 
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w13l3/1_olho7nmp
 
 [wn]: https://en.wikipedia.org/wiki/Neo4j
 [wgdb]: https://en.wikipedia.org/wiki/Graph_database
