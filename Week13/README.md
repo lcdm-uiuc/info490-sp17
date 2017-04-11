@@ -28,5 +28,5 @@ This week we introduce NoSQL Databases, which are generally recent additions to 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/w13ov/1_opfhihkl
 [wq]: https://learn.illinois.edu/mod/quiz/
