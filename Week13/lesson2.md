@@ -1,7 +1,7 @@
 # Week 13 Lesson 2 #
 ## Introduction to Column-Oriented Databases ##
 
-In this lesson, you will learn about column-oriented databases like Cassandra. A column-oriented database is optimized to provide record data in column-first format. This is important for large datasets, especially when only a few columns may be required for a particular query. Columns-ordered data enables specific columns ti be found quickly. To connect to a Cassandra instance, we will use the Cassandra Python database driver. This will allow us to execute CQL (Cassandra Query Language) queries against the Cassandra instance in order to insert, update, select, or delete records.
+In this lesson, you will learn about column-oriented databases like Cassandra. A column-oriented database is optimized to provide record data in column-first format. This is important for large datasets, especially when only a few columns may be required for a particular query. Columns-ordered data enables specific columns to be found quickly. To connect to a Cassandra instance, we will use the Cassandra Python database driver. This will allow us to execute CQL (Cassandra Query Language) queries against the Cassandra instance in order to insert, update, select, or delete records.
 
 ### Objectives ###
 
@@ -49,7 +49,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/intro2cassandra.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w13l2/1_smhx8bdm
 
 [ic]: https://academy.datastax.com/resources/brief-introduction-apache-cassandra
 [oc]: https://www.pythian.com/wp-content/uploads/2015/07/Pythian-Introduction-to-Cassandra-eBook-2015.pdf
