@@ -53,7 +53,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l3nb]: ../notebooks/intro2neo4j.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844484
 [lv]: https://mediaspace.illinois.edu/media/w13l3/1_olho7nmp
 
 [wn]: https://en.wikipedia.org/wiki/Neo4j

@@ -29,4 +29,4 @@ This week we introduce NoSQL Databases, which are generally recent additions to 
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/w13ov/1_opfhihkl
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844364
