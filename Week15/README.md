@@ -22,4 +22,4 @@ This week we introduce deep learning. Deep learning has become an incredibly pop
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/w15ov/1_x24sjrof
