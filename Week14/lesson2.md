@@ -47,7 +47,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l2nb]: ../notebooks/sparkdf.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w14l2/1_f3eue976
 
 [oass]: http://www.infoq.com/articles/apache-spark-sql
 [sspg]: https://spark.apache.org/docs/latest/sql-programming-guide.html
