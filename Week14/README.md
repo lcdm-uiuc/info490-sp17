@@ -28,5 +28,5 @@ This week we introduce Spark, a popular big data processing environment. Spark p
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/w14ov/1_aadylm3t
 [wq]: https://learn.illinois.edu/mod/quiz/
