@@ -53,7 +53,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2dl.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w15l1/1_za1g1mp9
 
 [wdl]: https://en.wikipedia.org/wiki/Deep_learning
 [wnn]: https://en.wikipedia.org/wiki/Artificial_neural_network
