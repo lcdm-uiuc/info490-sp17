@@ -53,7 +53,7 @@ When you have completed and worked through the above readings, please take the [
 [l3nb]: ../notebooks/sparkmllib.ipynb
 
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w14l3/1_tf0isvh8
 
 [mcr]: https://spark.apache.org/docs/latest/mllib-classification-regression.html
 [mc]: https://spark.apache.org/docs/latest/mllib-clustering.html
