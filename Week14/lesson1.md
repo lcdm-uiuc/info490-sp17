@@ -51,7 +51,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: ../notebooks/intro2spark.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
-[lv]: https://mediaspace.illinois.edu
+[lv]: https://mediaspace.illinois.edu/media/w14l1/1_8gy2e2zd
 
 [ws]: https://en.wikipedia.org/wiki/Apache_Spark
 
