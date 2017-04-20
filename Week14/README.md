@@ -29,4 +29,4 @@ This week we introduce Spark, a popular big data processing environment. Spark p
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/w14ov/1_aadylm3t
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1844367

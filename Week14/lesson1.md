@@ -50,7 +50,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2spark.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844487
 [lv]: https://mediaspace.illinois.edu/media/w14l1/1_8gy2e2zd
 
 [ws]: https://en.wikipedia.org/wiki/Apache_Spark

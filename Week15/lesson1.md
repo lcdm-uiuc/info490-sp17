@@ -52,7 +52,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 15 Lesson 1 Assessment][la]
 
 [l1nb]: ../notebooks/intro2dl.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844496
 [lv]: https://mediaspace.illinois.edu/media/w15l1/1_za1g1mp9
 
 [wdl]: https://en.wikipedia.org/wiki/Deep_learning

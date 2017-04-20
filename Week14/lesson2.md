@@ -46,7 +46,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment][la]
 
 [l2nb]: ../notebooks/sparkdf.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1844490
 [lv]: https://mediaspace.illinois.edu/media/w14l2/1_f3eue976
 
 [oass]: http://www.infoq.com/articles/apache-spark-sql
